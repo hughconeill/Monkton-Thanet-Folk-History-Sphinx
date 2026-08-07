@@ -1,0 +1,35 @@
+# A Farming Life - 
+
+During this time, big changes happened on most farms in Thanet. 
+The most visible being the disappearance of the dairy herds and sheep.  
+Nearly all farms that had ground on the marshes (with the exception of Sherrifs Court) had live stock of some sort, 
+as prior to the marshes being drained, most fields were in grass.  
+Monkton Court cows and sheep had all gone by about 1982, as with Willetts, Robinsons and Tapps, the sheep went at the same time.  
+The only dairy cows left in Thanet by 1985 were the half dozen or so that the Nuns had at Minster Abbey.  
+Quex Park continued to have a bullock herd and Tapps at St Nicholas Court had a few in the fields next to the farm.  
+I think that turkey production at Monkton Court finished in 1983.
+
+A horrendous incident involving the dairy herd of Monkton Court happened in 1979/80.  
+When I went over the railway crossing at the start of the working day at Sherrifs Court, 
+I noticed that a train was stationary near the railway bridge Canterbury side of Monkton and no trains ran for most of the day.  
+Later in the evening I met my life-long friend, Gordon Morris, who then worked for Monkton Court, 
+for a couple of pints in The White Stag, to hear that the cows had somehow gotten onto the railway line 
+and 10/12 of them had been killed.
+
+My time with our New Holland 1545 combine came to an end in 1985.  
+The technology in the 1545 was outdated.  
+If I had a really good day I could cut 12 acres (the combines you see in Thanet today can cut more than that in an hour!), 
+and with more than 300 acres of wheat to cut, 
+we had to get contractors in to make sure that we finished harvesting in a reasonable time.  
+Fred bought a 3 year old New Holland 8080, the same size header as the 1545, 
+but its daily cutting ability doubled and in its first year we no longer needed contractors in to complete our harvest.
+
+Two things happened to wheat production during this period. 
+Up until then, a good crop of wheat on Thanet farms was about 2 tonnes to the acre and the stalks of wheat on average 
+were 4 ft long, very prone to falling over. 
+Short strawed varieties were introduced and on these varieties the numbers of grains of wheat almost doubled, 
+3 tonnes to the acre soon became a good average, 4 tonne is expected today.
+
+Terry Marsh 
+
+Originally published in Monkton News, June 2025

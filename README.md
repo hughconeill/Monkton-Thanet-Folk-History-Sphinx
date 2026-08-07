@@ -2,10 +2,9 @@
 
 A Sphinx documentation site for a village history project, written in
 **Markdown** (via [MyST](https://myst-parser.readthedocs.io/)) with
-the [Furo](https://pradyunsg.me/furo/) theme. Pre-populated with
-sample content for a fictional village ("Millbrook") so you can see
-how the layout, image captions, and source citations work — replace
-the placeholder text and images with your own research.
+the [Furo](https://pradyunsg.me/furo/) theme. 
+Initially the site has sample ficticious content that will be gradually replaced
+with real information as we build the site.
 
 ## Project layout
 

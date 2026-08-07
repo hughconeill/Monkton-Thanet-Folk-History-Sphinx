@@ -1,0 +1,33 @@
+# A Farming Life - 9
+
+On Sheriffs Court Farm during this period, as with most farms in the country, 
+big changes were coming into effect from being in the Common Market.  
+Subsidies for growing most crops led to a time in farming history when hedges and trees were pulled out to make bigger fields, 
+dykes were filled in and grassland was ploughed in to grow more acreage of crops. 
+In many cases, the new ground did not produce much, but the farmers were able to claim their subsidies for growing and planting a crop. 
+Milk and meat production grew to excess.  
+Many of a certain age will remember the ‘Butter Mountain’, 
+when more butter was produced than could ever be consumed within the Common Market. +
+The rules on grain storage changed at this time.  
+The moisture content of the harvested grain was reduced from 17% to 15%.  
+Like a lot of smaller farms at that time, Sherrifs Court had very limited space for drying and storing grain.  
+The barley was taken straight from the field to Grain Harvesters at Wingham, which had huge storage and milling facilities.  
+Some of the wheat was taken directly there, but most was dumped on a barn floor then transported to various mills by Whites Transport.  
+The lowering of the moisture content meant that a larger percentage of the grain had to be dried to get it down to 15%.  
+When most of your grain was dried off farm it took a larger toll on any profit. +
+
+Percy Huckstep was the combine driver on Sherrifs Court but unfortunately Percy had a serious heart attack in 1979.  
+The boss, Fred Fuller, asked if I would drive the combine.  
+I agreed, but only if it had a cab put on it, which he did.  
+The cab was a glass box with a window on one side and a door on the other – when both were shut it was like sitting in a greenhouse.  
+My previous experience of using a combine was of driving it for one lap of a field the year before.  
+I knew very little about how to set up and use the machine.  
+I was sent on a one day course run by Invicta Motors, who then sold and maintained Ford tractors and New Holland combines. 
+My first real experience in driving the combine was not in the field, but on the road.  
+I had to go and cut our field of barley which was along Crispe Road at Acol, a strange feeling driving a 10ft 
+wide machine with rear steering, driving in and out of parked cars and hoping the on-coming vehicles would pull over and let me pass.  
+This was the start of a thirty year love/hate relationship of operating combine harvesters.
+
+Terry Marsh
+
+Originally published in Monkton News, May 2025

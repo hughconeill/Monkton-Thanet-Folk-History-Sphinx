@@ -1,10 +1,9 @@
-# The History of Monkton
+# The History of Monkton in Thanet
 
 ```{admonition} Sample content
 :class: tip
 
-This site is pre-populated with **placeholder content for a fictional
-village, "Monkton,"** so you can see how the layout, citations, and
+This site is pre-populated with **placeholder fictional content** so you can see how the layout, citations, and
 image captions work. Replace the text, dates, names, and images with
 your own research — the structure will stay the same.
 ```
@@ -14,18 +13,12 @@ brings together parish records, oral histories, newspaper archives,
 and personal photographs to document the village's story from its
 earliest records to the present day.
 
-```{toctree}
-:maxdepth: 2
-:caption: Contents
+```{figure} https://res.cloudinary.com/monkton/image/upload/v1786114532/Monkton_church_kn8msz.png
+:alt: Monkton Church
+:width: 70%
+:align: center
 
-about
-history/index
-timeline
-people/index
-places
-gallery
-sources
-faq
+An old postcard of Monkton Church and the stocks.
 ```
 
 ## Explore the archive
@@ -76,3 +69,19 @@ Archives, records, and further reading.
 This is a community-maintained archive. See the [About](about.md) page
 for how it started and how to contribute your own family photos,
 documents, or memories.
+
+## Table of contents
+
+```{toctree}
+:maxdepth: 2
+:caption: Contents
+
+about
+history/index
+timeline
+people/index
+places
+gallery
+sources
+faq
+```
