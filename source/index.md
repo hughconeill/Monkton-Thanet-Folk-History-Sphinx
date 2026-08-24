@@ -1,13 +1,5 @@
 # The History of Monkton in Thanet
 
-```{admonition} Sample content
-:class: tip
-
-This site is pre-populated with **placeholder fictional content** so you can see how the layout, citations, and
-image captions work. Replace the text, dates, names, and images with
-your own research — the structure will stay the same.
-```
-
 Welcome to the community history archive for Monkton. This project
 brings together parish records, oral histories, newspaper archives,
 and personal photographs to document the village's story from its
@@ -30,6 +22,12 @@ An old postcard of Monkton Church and the stocks.
 :link: history/index
 :link-type: doc
 Chronological chapters, from earliest settlement to the present.
+:::
+
+:::{grid-item-card} ⛪ The Church
+:link: church/index
+:link-type: doc
+St Mary Magdalene: architecture, clergy, bells, and memorials.
 :::
 
 :::{grid-item-card} 🕰️ Timeline
@@ -64,20 +62,13 @@ Archives, records, and further reading.
 
 ::::
 
-## About this project
-
-This is a community-maintained archive. See the [About](about.md) page
-for how it started and how to contribute your own family photos,
-documents, or memories.
-
-## Table of contents
-
 ```{toctree}
 :maxdepth: 2
 :caption: Contents
 
 about
 history/index
+church/index
 timeline
 people/index
 places
@@ -85,3 +76,9 @@ gallery
 sources
 faq
 ```
+
+## About this project
+
+This is a community-maintained archive. See the [About](about.md) page
+for how it started and how to contribute your own family photos,
+documents, or memories.

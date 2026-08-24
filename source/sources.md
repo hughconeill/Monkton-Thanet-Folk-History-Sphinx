@@ -19,6 +19,9 @@ and let future contributors find and re-check the original record.
 - Baptism, Marriage and Burial registers, [parish name], [date range].
   Held at [County Record Office], ref. [XX/000]. Microfilm/digital
   copies also available via [Ancestry / FindMyPast / FreeReg, if used].
+- Monkton Parish Baptism & Burial Registers, 1700–1883 — cross-referenced
+  to churchyard plot numbers; see [The Church → Churchyard → Appendix]
+  (church/churchyard/register-appendix.md).
 
 ## Manorial records
 
@@ -56,6 +59,13 @@ and let future contributors find and re-check the original record.
 
 - War Memorial inscription, transcribed [date] by [name].
 - Commonwealth War Graves Commission records, accessed [date].
+- Monkton War Memorial inscription — see
+  [The Church → War Memorial](church/war-memorial.md).
+- Memorial tablet transcriptions inside St Mary Magdalene — see
+  [The Church → Memorials Inside](church/memorials-inside.md).
+- Monkton Churchyard survey (location, alphabetical, and numerical
+  indexes), October 2025 — see
+  [The Church → The Churchyard](church/churchyard/index.md).
 
 ## Oral histories
 
@@ -76,6 +86,13 @@ so explicitly on the relevant page rather than silently favoring one.
 - [Author surname, initial]. *[Book/article title]*. [Publisher,
   year].
 - [Local history society name], *[Publication title]*, [year].
+- "A Short Guide to St Mary Magdalene, Monkton" — church visitor
+  guide. See [The Church → Short Guide](church/short-guide.md).
+- "The Six Bells of St Mary Magdalene, Monkton, Kent" — see
+  [The Church → The Six Bells](church/bells.md).
+- "History of Monkton Clergy 1291–2025" — church porch board
+  (currently in storage). See
+  [The Church → Clergy](church/clergy.md).
 
 ## Photographs and personal collections
 

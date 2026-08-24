@@ -1,10 +1,11 @@
-# The History of Millbrook — Sphinx Documentation Site
+# The History of Monkton — Sphinx Documentation Site
 
 A Sphinx documentation site for a village history project, written in
 **Markdown** (via [MyST](https://myst-parser.readthedocs.io/)) with
-the [Furo](https://pradyunsg.me/furo/) theme. 
-Initially the site has sample ficticious content that will be gradually replaced
-with real information as we build the site.
+the [Furo](https://pradyunsg.me/furo/) theme. Pre-populated with
+sample content for a fictional village ("Monkton") so you can see
+how the layout, image captions, and source citations work — replace
+the placeholder text and images with your own research.
 
 ## Project layout
 
@@ -131,6 +132,20 @@ https://pradyunsg.me/furo/customisation/
 
 To add a logo or favicon, drop the image file in `source/_static/` and
 uncomment the `html_logo` / `html_favicon` lines in `conf.py`.
+
+## Publishing via GitHub Pages (automatic)
+
+This repo includes `.github/workflows/deploy.yml`, which builds and
+publishes the site automatically on every push to `main`.
+
+One-time setup after pushing to GitHub:
+1. Go to the repo's **Settings → Pages**.
+2. Under "Build and deployment", set **Source** to **GitHub Actions**.
+3. Push to `main` (or re-run the workflow from the **Actions** tab) —
+   the site will be live at `https://<username>.github.io/<repo-name>/`.
+
+After that, there's no manual deploy step: edit a page, commit, push,
+and the live site updates in a minute or two.
 
 ## Deploying
 

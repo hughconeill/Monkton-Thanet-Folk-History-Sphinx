@@ -5,7 +5,7 @@ read. Keep it short and current — update it when key decisions change.*
 
 ## What this project is
 
-A documentation website recording the history of Monkton in Thanet,
+A documentation website recording the history of [village name],
 built with Sphinx and hosted on GitHub Pages. Content is written in
 Markdown and lives in the `source/` folder.
 
@@ -32,9 +32,8 @@ Markdown and lives in the `source/` folder.
 ## Images
 
 - Store web-sized copies (under ~1MB) in `source/_static/images/`.
-- Keep full-resolution originals outside the repo 
-(a library has been set up in Cloudinary - Product Environment = "Monkton" under Hugh's gmail account) 
-— note where in `sources.md`.
+- Keep full-resolution originals outside the repo (external drive,
+  family archive, etc.) — note where in `sources.md`.
 - Every image needs a caption with source/date/contributor, even if
   approximate.
 
@@ -54,6 +53,6 @@ Markdown and lives in the `source/` folder.
 documents/photos are physically stored, any accounts (GitHub, domain
 name if used) and who holds the credentials.*
 
-- Repository: (https://github.com/hughconeill/Monkton-Thanet-Folk-History-Sphinx)
-- Original documents/photos held by: Stuart Horsburgh
-- Contact for questions: Hugh O'Neill - hughconeill@gmail.com
+- Repository: [GitHub URL]
+- Original documents/photos held by: [name/organization]
+- Contact for questions: [name/email]

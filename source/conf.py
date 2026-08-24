@@ -3,10 +3,10 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "A folk History of Monkton in Thanet"
+project = "The History of Monkton"
 copyright = "2026, Monkton Local History Project"
 author = "Monkton Local History Project"
-release = "0.1.0"
+release = "0.1"
 
 # -- General configuration ----------------------------------------------------
 
@@ -59,5 +59,5 @@ html_theme_options = {
 }
 
 # Optional: add your own logo/favicon by dropping files in _static/
-html_logo = "_static/Logo_trans_red.png"
-html_favicon = "_static/Monkton_CoA.ico"
+html_logo = "_static/logo_trans_red.png"
+html_favicon = "_static/monkton_coa.ico"
