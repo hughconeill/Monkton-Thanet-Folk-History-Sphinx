@@ -5,40 +5,38 @@
 This archive exists to gather and preserve the history of Monkton
 before records, photographs, and living memory are lost. It draws on:
 
-- Parish and civil registration records
+- Official records
 - Local newspaper archives
-- County and estate records held at the record office
 - Oral history interviews with residents and former residents
 - Personal photographs, letters, and documents contributed by families
 
-```{note}
-Replace this section with your own project's origin story — who
-started it, when, and why. Community history sites often begin as a
-single family's research and grow from there.
-```
+## Contacts
 
-## How to use this site
+This project is led by:
 
-- The **[History](history/index.md)** section is organized chronologically
-  into chapters.
-- The **[Timeline](timeline.md)** gives a quick-reference list of dates.
-- The **[People](people/index.md)** and **[Places](places.md)** sections
-  are organized by subject rather than date, so you can look someone or
-  somewhere up directly.
-- Every factual claim should link back to a source — see
-  **[Sources](sources.md)** for the full list of archives and records used.
+Stuart Horsburgh
+Email: [use an image]
+
+The website is maintained by:
+
+Hugh O'Neill
+Email: [use an image]
 
 ## Contributing
 
 ```{dropdown} Do you have photos, documents, or memories to share?
 If you have material relating to Monkton — photographs, letters,
-newspaper clippings, or family recollections — get in touch via
-[contact details]. Contributions are credited on the relevant page
-and added to the [Sources](sources.md) list.
+newspaper clippings, or family recollections — get in touch with Stuart (contact details above). 
 ```
 
 ## A note on accuracy
 
-Local history often relies on incomplete or conflicting records. Where
-sources disagree, this site tries to note the discrepancy rather than
-silently pick one version. If you spot an error, please flag it.
+The information presented on this website is accurate to the best of our knowledge.
+If you spot an error, please let us know.
+
+## Privacy
+
+We recognise that some information may be sensitive whether it is true or not and 
+we don't want this site to spread information that could cause harm, embarassment or offense.
+Please let us know if you anything on the website could fit that description 
+and we will remove or update the item.  

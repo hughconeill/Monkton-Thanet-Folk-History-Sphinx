@@ -6,18 +6,6 @@ church's architectural history, its bells, its clergy back to 1291,
 its war memorial, and detailed records of memorials both inside the
 building and across its churchyard.
 
-```{toctree}
-:maxdepth: 1
-
-short-guide
-clergy
-bells
-richard-culmer
-war-memorial
-memorials-inside
-churchyard/index
-```
-
 ::::{grid} 1 2 2 2
 :gutter: 3
 
@@ -56,5 +44,17 @@ Fourteen tablets and floor stones inside the church.
 :link-type: doc
 Full survey of the churchyard — hundreds of graves, by location, name, and plot number.
 :::
+
+```{toctree}
+:maxdepth: 1
+
+short-guide
+clergy
+bells
+richard-culmer
+war-memorial
+memorials-inside
+churchyard/index
+```
 
 ::::
