@@ -1,10 +1,6 @@
 # The Six Bells of St Mary Magdalene
 
-*See also [Places](../places.md) and the bells summary in the [Short Guide](short-guide.md#the-bells--).*
-
-**THE SIX BELLS OF ST MARY MAGDALENE**
-
-> **MONKTON, KENT**
+**THE SIX BELLS OF ST MARY MAGDALENE, MONKTON, KENT**
 
 The ancient tower of St Mary Magdalene was built in the C12th, and received it’s present top stage in the C14th. It is very likely that new bells were provided at this time, though how many, or by whom they were cast we don’t know. It is possible that there were as many as four, a large number for a small church at the time, when the English Reformation took place in the C16th.
 
@@ -20,10 +16,17 @@ Serious bell ringing, presently for a Friday night practice, 7pm – 8pm, and oc
 
 By 2018, the Revd. Cawley had found two more light bells that were installed to make a more traditional peal of 6 bells, and bell ringers from far and wide visit Monkton on their tours and outings to ring quarter peals and the occasional peal.
 
-\#1 (F#) 24” 2cwt 3qt 17lb treble from 1961 comes from East Budleigh Church, Devon; \#2 (E) 26” 3cwt 2qr 7lb from 1938 cast by Gillett & Johnston, Croydon;
+\#1 (F#) 24” 2cwt 3qt 17lb treble from 1961 comes from East Budleigh Church, Devon; 
 
-\#3 (D) 27” 3cwt 1qr 22lb from 1633; \#4 (C#) 28” 3cwt 2qr 13lb from 1661; \#5 (B) 32” 5cwt 3lb from 1615; \#6 (A) 34” 7cwt 9lb from 1880.
+\#2 (E) 26” 3cwt 2qr 7lb from 1938 cast by Gillett & Johnston, Croydon;
 
-There is a long, high, steep, but safe, wooden ladder up to the ringing room, built by village carpenter Robert Jakeman. Beginners of all ages are welcome to start learning, as are established ringers who wish to ring with us. Practice night is presently every FRIDAY FROM 5-6pm, but you should confirm this with the Bell Secretary beforehand, Heather Gunton 01843 821585 or 07807 019322.
+\#3 (D) 27” 3cwt 1qr 22lb from 1633; 
 
-[^source]: "The Six Bells of St Mary Magdalene, Monkton, Kent." See [Sources](../sources.md#published-works).
+\#4 (C#) 28” 3cwt 2qr 13lb from 1661; 
+
+\#5 (B) 32” 5cwt 3lb from 1615; 
+
+\#6 (A) 34” 7cwt 9lb from 1880.
+
+There is a long, high, steep, but safe, wooden ladder up to the ringing room, built by village carpenter Robert Jakeman. Beginners of all ages are welcome to start learning, as are established ringers who wish to ring with us.
+

@@ -1,42 +1,34 @@
 # Gallery
 
-A collection of historical photographs. Each image should be credited
-and dated as precisely as possible — see [Sources](sources.md) for
-how contributed photographs are recorded.
+A small sample collection of historical photographs. 
+This section will be expanded and catalogued in the future when the available pictures have been scanned.
 
 ::::{grid} 1 2 2 3
 :gutter: 3
 
 :::{grid-item-card}
-```{image} _static/images/placeholder-1.jpg
-:alt: Placeholder image 1
+```{image} https://res.cloudinary.com/monkton/image/upload/v1786112650/MonktonVillage_b9t5ce.png
+:alt: Monkton Village
 ```
 ^^^
-The Green, c. [year]. Contributed by [name].
+Monkton Street.
 :::
 
 :::{grid-item-card}
-```{image} _static/images/placeholder-2.jpg
-:alt: Placeholder image 2
+```{image} https://res.cloudinary.com/monkton/image/upload/v1786112649/Monkton_Post_Office_bofbhz.png
+:alt: The old post office
 ```
 ^^^
-[Street name] looking [direction], [year].
+The old post office.
 :::
 
 :::{grid-item-card}
-```{image} _static/images/placeholder-3.jpg
-:alt: Placeholder image 3
+```{image} https://res.cloudinary.com/monkton/image/upload/v1786112617/Monkton_School_postcard_bxmhh6.png
+:alt: The school
 ```
 ^^^
-[Event, e.g. Coronation celebrations], [year].
+The village school
 :::
 
 ::::
 
-```{tip}
-Keep original, full-resolution scans in a separate archive folder
-(not in this repo) and only add web-sized copies (under ~1MB each) to
-`_static/images/` — keeps the site fast and the repo small. Note the
-location of the originals in [Sources](sources.md) so future
-contributors can find them.
-```

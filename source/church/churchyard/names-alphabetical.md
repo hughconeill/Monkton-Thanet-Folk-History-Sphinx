@@ -1221,7 +1221,3 @@ YOUNG, ? Mary ?.?.???? -- 20.2.1712 (4 months) 14 Nave
 
 YOUNG, Thomas ?.?.???? -- 23.1.1715 (9 months) 14 Nave
 
-[^source]: Monkton Churchyard alphabetical name index, compiled from the
-    October 2025 survey, the parish Burials Book (from 1953), and Coles
-    Funeral Directors' Minster burial plan. See
-    [Sources](../../sources.md#memorials-and-monuments).

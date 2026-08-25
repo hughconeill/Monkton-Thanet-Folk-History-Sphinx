@@ -604,5 +604,3 @@ WENDY ANN MONAGHAN (2007)
 
 257. JEAN ROSE CONGRAVE (2023)
 
-[^source]: Monkton Churchyard numbered plot index, October 2025 survey.
-    See [Sources](../../sources.md#memorials-and-monuments).

@@ -66,5 +66,3 @@ in the churchyard (plot 182) — see
 Commonwealth War Graves at Monkton, including Private Walter G. Long
 (plot 8) and Private James Booth Bradbury (plot 9).
 
-[^source]: Monkton War Memorial, inscription transcribed [date]. See
-    [Sources](../sources.md#memorials-and-monuments).

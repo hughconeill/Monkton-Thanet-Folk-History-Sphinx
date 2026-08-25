@@ -4,7 +4,13 @@ St Mary Magdalene's churchyard is the only one in Thanet still open
 for burials, and is maintained by church volunteers. It holds several
 hundred years of burials, documented here through four
 complementary record sets compiled during a churchyard survey
-conducted in October 2025.
+conducted in October 2025 by Stuart Horsburgh.
+
+```{figure} https://res.cloudinary.com/monkton/image/upload/v1787689453/Stuart_gravestone_nnwzmy.jpg
+:alt: Church Today
+:width: 50%
+:align: center
+```
 
 ```{admonition} How these records relate to each other
 :class: note
@@ -34,7 +40,7 @@ original inscription.
 
 ```{warning}
 Many identifications in these records are marked as "guesses" by the
-surveyors, reconciling worn or illegible stones against the parish
+author, reconciling worn or illegible stones against the parish
 registers. Where the survey itself flags uncertainty, that uncertainty
 is preserved here rather than resolved — please treat bracketed
 "Guess?" notes as exactly that.
@@ -47,4 +53,13 @@ survey-by-location
 names-alphabetical
 numbered-stones
 register-appendix
+```
+## Map of the Stones in the Graveyard
+
+```{figure} https://res.cloudinary.com/monkton/image/upload/v1787688929/Graveyard_map_yji6fh.png
+:alt: Churchyard Map
+:width: 100%
+:align: center
+
+The map of the stones in the graveyard.
 ```

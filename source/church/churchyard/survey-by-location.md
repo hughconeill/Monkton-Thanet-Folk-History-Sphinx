@@ -1585,5 +1585,3 @@ START A NEW ROW, RIGHT TO LEFT
 
 257. **JEAN ROSE / CONGRAVE** / 10.6.1934 -- 2.9. 2023 / "Loved so dearly / by us all" ///
 
-[^source]: Monkton Churchyard Location Details survey, October 2025.
-    See [Sources](../../sources.md#memorials-and-monuments).

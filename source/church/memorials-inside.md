@@ -8,6 +8,11 @@ in both places.
 
 ## Tablet locations
 
+```{admonition} Note:
+:class: note
+See the map on the Churchyard page to find the location of the memorials
+```
+
 | # | Location | Names |
 |---|----------|-------|
 | 1 | Chancel | Rachel White (1819) & James White (1849) & James White (1861) & William White (1871) |
@@ -137,9 +142,6 @@ Here lieth interr'd the Body of **ELIZ: *(Elizabeth***) the Daughr: (*daughter*)
 
 Here lyes ye Body of **THO: *(Thomas***) ye son of MR Wm (*William*) **YOUNG** & ANNE his wife who died Janr: *(January*) Ye 23^rd^ 1715 Aged 9 months // *\[THOMAS YOUNG, son of Mr ......? Vicar of Chislet & his wife Anne, buried 26.1.1715\]*
 
-**M(ARY?) YOUNG** Died Febr *(February*) 1712 Aged 4 m (*months*) ///
+**M(ARY?) YOUNG** Died Febr *(February*) 1712 Aged 4 m (*months*) 
+*\[WILLIAM YOUNG married AN(NE) AYLING 12.10.1706\]*
 
-> *\[WILLIAM YOUNG married AN(NE) AYLING 12.10.1706\]*
-
-[^source1]: Memorial tablet transcriptions, St Mary Magdalene, Monkton, recorded [date]. See [Sources](../sources.md#memorials-and-monuments).
-[^source2]: Parish Registers of Baptism, Marriage and Burial, Monkton. See [Sources](../sources.md#parish-registers).

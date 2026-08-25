@@ -6,6 +6,11 @@ church's architectural history, its bells, its clergy back to 1291,
 its war memorial, and detailed records of memorials both inside the
 building and across its churchyard.
 
+```{figure} https://res.cloudinary.com/monkton/image/upload/v1787689452/Stuart_Church_ff7yif.jpg
+:alt: Church Today
+:width: 50%
+:align: center
+```
 ::::{grid} 1 2 2 2
 :gutter: 3
 

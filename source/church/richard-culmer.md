@@ -29,5 +29,3 @@ Thorowgood, who took Culmer in), see
 [History of Monkton Clergy](clergy.md).
 ```
 
-[^source]: Local history research on Richard Culmer. See
-    [Sources](../sources.md#published-works).

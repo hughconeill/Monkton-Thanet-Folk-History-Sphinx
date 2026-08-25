@@ -46,7 +46,6 @@ Historical photographs and images.
 about
 church/index
 gallery
-faq
 ```
 
 ## About this project

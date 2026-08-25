@@ -212,6 +212,3 @@ THE 12 CHILDREN OF WILLIAM (labourer) & MARY ANN(E) STUDHAM :- GEORGE STUDHAM, b
 
 **211.** ???? SAMUELL 2026
 
-[^source]: Monkton Parish Baptism & Burial Registers, 1700–1883,
-    cross-referenced to churchyard plot numbers by the survey team,
-    October 2025. See [Sources](../../sources.md#parish-registers).
