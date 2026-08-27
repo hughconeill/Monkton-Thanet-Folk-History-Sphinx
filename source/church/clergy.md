@@ -1,8 +1,10 @@
 # Monkton Clergy, 1291–2025
 
-*Originally recorded on a board that stood in the church porch, presently in storage.*
+```{admonition} Note
+:class: note
 
-**HISTORY OF MONKTON CLERGY 1291 -- 2025**
+Originally recorded on a board that stood in the church porch, presently in storage.
+```
 
 The church at Monkton was in existence at the time of the Doomsday Survey 1086, together with the church at Wode (Woodchurch). The inhabitants of Birchington were required to contribute to the upkeep of Monkton Church as late as 1356.
 

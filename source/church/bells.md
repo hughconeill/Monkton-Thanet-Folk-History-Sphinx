@@ -1,7 +1,5 @@
 # The Six Bells of St Mary Magdalene
 
-**THE SIX BELLS OF ST MARY MAGDALENE, MONKTON, KENT**
-
 The ancient tower of St Mary Magdalene was built in the C12th, and received it’s present top stage in the C14th. It is very likely that new bells were provided at this time, though how many, or by whom they were cast we don’t know. It is possible that there were as many as four, a large number for a small church at the time, when the English Reformation took place in the C16th.
 
 The C17th was the ‘golden era’ for Monkton’s bells. \#3 was cast in 1615 by the great Kent bell founder, Joseph Hatch, whose foundry was at Ulcombe, near Maidstone. The \#1 treble bell was cast (possibly added to the peal) by the same founder in 1633. Following the Restoration of the Monarchy in 1661, two bells, the \#2 and \#4 tenor bells, were recast by the Canterbury founder, Thomas Palmer I, whose foundry was in St Dunstan’s parish, near the present Canterbury West train station.

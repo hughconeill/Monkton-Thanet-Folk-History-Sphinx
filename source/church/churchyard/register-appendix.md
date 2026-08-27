@@ -5,14 +5,13 @@ Registers, 1700–1883, cross-referenced by the surveyors to plot numbers
 on the churchyard map where a family can be confidently (or, in some
 cases, tentatively — marked "Guess?") matched to a grave.
 
+```{admonition} Note...
+:class: note
+
 Numbers below relate to the [churchyard survey](survey-by-location.md)
 and [numbered stone index](numbered-stones.md).
 
-**APPENDIX**
-
-Further information from the church Baptism & Burials Registers 1700-1883.
-
-{numbers relate to the graves map}
+```
 
 **6**. JOHN DOORNE, Monkton, carpenter, buried 14/9/1873, aged 67 years. JANE DOORNE, from Minster. ELIZA DOORNE, aged 72 / 73? years.
 
@@ -98,11 +97,11 @@ Also of the above WILL ? SMITH / who died the 19 of July 1800 / aged 69 years //
 
 **48**. DAVID PARAMOUR, Thanet Union House, Minster, buried 21/2/1871, aged 81 years. *\[Guess? MARY PARAMOUR, wife, buried 26/9/1832, aged 40 years \] ?*
 
-**49***. \[Guess? DAVID PARAMOUR 1871 \]?*
+**49**. \[Guess? DAVID PARAMOUR 1871 \]?*
 
 **52**. SARAH HINDMARSH, Canterbury, buried 9/3/1833, aged 72 years. SARAH and ROBERT HINDMARSH.
 
-**55***. \[Guess? MARY MATSON, buried 17/1/1800. \]?*
+**55**. \[Guess? MARY MATSON, buried 17/1/1800. \]?*
 
 **57**. MARY HARVEY, buried 13/3/1785. THOMAS HARVEY, buried 20/3/1803. Thomas Harvey married (?Margaret )Mary Beech, 29/9/1751.
 
@@ -122,7 +121,7 @@ THE 6 CHILDREN OF RICHARD & MARY :- WILLIAM COOPER, baptised 13/12/1716, buried 
 
 **70**. THOMAS BRETT, \[Guess? son of Thomas & Elizabeth, baptised 3/7/1803, buried 10/4/1878, aged 76 years OR ..... son of James & Mary, baptised 19/6/1768, buried 10/5/1843, aged 75 years \]? (also ref. 75!) *\[?Guess - SARAH BRETT, Ramsgate, buried 24/1/1884, aged 74 years\]*
 
-**74***. \[Guess? THOMAS HOLLAND(S), buried 31/8/1761. THOMAS HOLLAND, son of Jno & Elisabeth, baptised 15/9/1717.\]?* Catherine Holland(s), buried 28/9/1756.
+**74**. \[Guess? THOMAS HOLLAND(S), buried 31/8/1761. THOMAS HOLLAND, son of Jno & Elisabeth, baptised 15/9/1717.\]?* Catherine Holland(s), buried 28/9/1756.
 
 **75.** THOMAS BRETT, son of James & Mary, baptised 19/6/1768, buried 10/5/1843, aged 75 years. JOHN BRETT, Monkton, baptised 25/10/1795, buried 15/1/1816, aged 20 years. ELIZABETH BRETT, Minster, buried 3/11/1899, aged 66 years ?? OR.....*\[Guess? ELISABETH BRETT, buried 6/4/1852, aged 84 years.\]*
 
@@ -136,7 +135,7 @@ THE 6 CHILDREN OF RICHARD & MARY :- WILLIAM COOPER, baptised 13/12/1716, buried 
 
 **85.** Here lieth ? body of / MARY ? of ? IOH? / BESH? ? who departed / this life Nov ?18 1772 ? / in ye 26 year of her age ////
 
-**88*.*** *\[Guess? ELIZABETH (MARY?) MAY, buried 23/10/1766.\]*
+**88.** *\[Guess? ELIZABETH (MARY?) MAY, buried 23/10/1766.\]*
 
 **89**. ELIZABETH MAY, Margate, buried 30/4/1758.
 
@@ -152,7 +151,7 @@ THE 6 CHILDREN OF RICHARD & MARY :- WILLIAM COOPER, baptised 13/12/1716, buried 
 
 THE 9 CHILDREN OF THOMAS & ELIZABETH DENNE :- JOHN DENNE, baptised 31/8/1762, buried 19/9/1762. ELIZABETH DENNE, baptised 25/8/1763, buried 2/9/1763. ELIZABETH DENNE, baptised 20/9/1764, ? buried 29/9/1819? Aged 82? . THOMAS DENNE, baptised 29/10/1766, buried Sarre, buried 24/3/1821, aged 54 years. WILLIAM DENNE, baptism 5/1/1769, St Nicholas, buried 2/10/1816, aged 47 years. MARTHA DENNE, Ramsgate, baptised 15/5/1771, buried 23/3/1849, aged 77 years. MARY DENNE, baptised 26/5/1773. SARAH DENNE, baptised 30/11/1775, Ramsgate, buried 4/4/1846, aged 70 years.
 
-**112***. \[Guess? ELIZABETH ADAMS, buried 10/4/1801 \]?*
+**112**. \[Guess? ELIZABETH ADAMS, buried 10/4/1801 \]?*
 
 **116.** Paul Rammelt, born in Leipzig Germany of Norwegian origin. A German WW2 POW ending up at Trenley Park Woods POW Camp Sturry. Met and married Ruth. Head hop man at Walters Hall Farm.
 
@@ -208,7 +207,7 @@ THE 12 CHILDREN OF WILLIAM (labourer) & MARY ANN(E) STUDHAM :- GEORGE STUDHAM, b
 
 "If men dare to judge from outward show / the humble tenant of the grave below / was rich in Christian wealth. / Lived his trust / honest in word and deed, sincere and just. / Gentle in manners, meek of heart and pure, / He used his talents well. This remark is sure. //
 
-**208***. \[Guess? GEORGE HORNE, Birchington, buried 9/11/1846, aged 86 years. ANNE HORN, Ware, Sandwich, 17/11/1880, aged 97 years \]?*
+**208**. \[Guess? GEORGE HORNE, Birchington, buried 9/11/1846, aged 86 years. ANNE HORN, Ware, Sandwich, 17/11/1880, aged 97 years \]?*
 
 **211.** ???? SAMUELL 2026
 

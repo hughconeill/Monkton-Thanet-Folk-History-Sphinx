@@ -2,7 +2,7 @@
 
 A walking-order transcription of the churchyard, recorded October 2025,
 starting at the western boundary opposite the church west door. Section
-headings in capitals are the surveyors' own walking directions —
+headings in capitals are location directions —
 follow them in order to locate each numbered plot on the ground.
 
 See [Names in alphabetical order](names-alphabetical.md) to look up a

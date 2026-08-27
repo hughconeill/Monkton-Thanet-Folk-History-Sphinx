@@ -20,3 +20,41 @@ table.clergy-table td:first-child {
 .location-subheading h2 {
     font-size: 1.25em;
 }
+
+/* Fixed, readable column proportions for the alphabetical names table,
+   instead of auto-sizing to whichever row has the longest text */
+table.names-table {
+    width: 100%;
+    table-layout: fixed;
+}
+table.names-table th:nth-child(1),
+table.names-table td:nth-child(1) {
+    width: 24%;
+}
+table.names-table th:nth-child(2),
+table.names-table td:nth-child(2) {
+    width: 46%;
+}
+table.names-table th:nth-child(3),
+table.names-table td:nth-child(3) {
+    width: 15%;
+}
+table.names-table th:nth-child(4),
+table.names-table td:nth-child(4) {
+    width: 15%;
+}
+
+/* Fixed column proportions for the numbered-stones index, matching the
+   two-column style used elsewhere on the churchyard pages */
+table.stones-table {
+    width: 100%;
+    table-layout: fixed;
+}
+table.stones-table th:nth-child(1),
+table.stones-table td:nth-child(1) {
+    width: 12%;
+}
+table.stones-table th:nth-child(2),
+table.stones-table td:nth-child(2) {
+    width: 88%;
+}

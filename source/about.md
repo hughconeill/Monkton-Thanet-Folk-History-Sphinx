@@ -10,16 +10,16 @@ before records, photographs, and living memory are lost. It draws on:
 - Oral history interviews with residents and former residents
 - Personal photographs, letters, and documents contributed by families
 
+This is a not-for-profit endeavour for the benefit of all and the believed consent of all those involved.
+
 ## Contacts
 
 This project is led by:
-
-Stuart Horsburgh
+**Stuart Horsburgh**, 
 Email: [use an image]
 
 The website is maintained by:
-
-Hugh O'Neill
+**Hugh O'Neill**, 
 Email: [use an image]
 
 ## Contributing

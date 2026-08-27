@@ -1,9 +1,5 @@
 # A Short Guide to St Mary Magdalene
 
-*This page transcribes the church's own visitor guide, describing its architecture and history.*
-
-**A SHORT GUIDE TO ST MARY MAGDALENE, MONKTON**
-
 **GENERAL :-** St Mary Magdalene is the smallest of Thanet’s seven ancient churches, but one of the oldest. It’s position, on high ground to the west of the present Monkton community, indicates the site of the original village. The Doomsday Survey of 1086 mentions a building on the present site, and this was probably of wood. The present church is basically Norman, dating from around 1190. The original nave was twice its present size, extending on the N. side. The remains of the N.W. corner of this structure can be seen adjacent to the tower and, when a trench was dug in the church path in 2001 (for a water supply) the base of the original outer wall was revealed.
 
 The reason and a date for this reduction in size have so far not been determined, but it appears to have been the springboard for an extensive re-fashioning of the whole structure during the C15th. The arches in the N. aisle were blocked up and new windows inserted. *\[ The outline of the five pointed arches of the original aisle, together with capitals of the pillars, can be clearly seen, particularly from the outside. \]* The N. porch was also built at this time, the chancel arch heightened and top stage of the tower added.

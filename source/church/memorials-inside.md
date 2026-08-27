@@ -2,8 +2,8 @@
 
 Fourteen memorial tablets and floor stones survive inside St Mary
 Magdalene. Numbering below follows the church's own tablet numbering
-(1–14), used consistently across this page and the [Churchyard]
-(churchyard/index.md) records, since several families have memorials
+(1–14), used consistently across this page and the 
+[Churchyard](churchyard/index.md) records, since several families have memorials
 in both places.
 
 ## Tablet locations
