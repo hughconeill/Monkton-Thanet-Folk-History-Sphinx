@@ -29,12 +29,12 @@ If you have material relating to Monkton — photographs, letters,
 newspaper clippings, or family recollections — get in touch with Stuart (contact details above). 
 ```
 
-## A note on accuracy
+## A note on accuracy...
 
 The information presented on this website is accurate to the best of our knowledge.
 If you spot an error, please let us know.
 
-## Privacy
+## ...and privacy
 
 We recognise that some information may be sensitive whether it is true or not and 
 we don't want this site to spread information that could cause harm, embarassment or offense.
