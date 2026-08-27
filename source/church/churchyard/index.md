@@ -26,13 +26,13 @@ conducted in October 2025 by Stuart Horsburgh.
   Coles Funeral Directors' Minster burial plan.
 - **[Named memorial stones in numerical order](numbered-stones.md)**
   — a condensed index: plot number, name(s), and year of death only.
-- **[Appendix: baptism & burial register cross-references, 1700–1883]
-  (register-appendix.md)** — additional genealogical detail drawn
+- **[Appendix: baptism & burial register cross-references, 1700–1883](register-appendix.md)** 
+  — additional genealogical detail drawn
   from the church's own Baptism & Burial Registers, cross-referenced
   to plot numbers where a family can be confidently matched to a grave.
 ```
 
-A `?` throughout these records marks a word, date, or reading that is
+A "?" throughout these records marks a word, date, or reading that is
 uncertain from weathering or damage. Square brackets containing
 *italic text* are editorial additions — a guessed identification, a
 cross-reference, or biographical detail — rather than part of the
