@@ -13,7 +13,11 @@ specific person, or [Named memorial stones in numerical order]
 
 *{ ____ = an 'educated' guess!? }*
 
+```{admonition} 🧭 Location help
+:class: note
+
 START POINT -- WESTERN BOUNDARY -- OPPOSITE CHURCH WEST DOOR.
+```
 
 1.  *\[ rectangular stone memorial, 3-sided stone kerbing, and a small stone flower plinth in the middle \]*
 
@@ -67,7 +71,11 @@ SMALL MEMORIAL:- **J DOORNE** / ?? 1873?79 ///
 
 *\[ + daughter Elizabeth Doorne, baptised 13.2.1848\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 NOW CONTINUE BY LOOKING LEFT TOWARDS THE WALL
+```
 
 7.  *\[ large shaped rectangular stone memorial, 3-sided kerbing, small stone flower holder \]*
 
@@ -119,7 +127,11 @@ In loving memory of / **JOHN LAMB** / who died Feb. 18<sup>th</sup> 1900 / aged 
 
 Also of? / **LUCY LAMB** / wife of the above / who died May 4<sup>th</sup> 1900 / aged 58?57 years / "It is not sadness peace from strife to fall / asleep is not to / die / to dwell with Christ is better life" ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF THE ROW, YOU'RE NOW NEXT TO THE COTTAGE WALL
+```
 
 15. *\[ stone memorial with cross in a circle. 3-sided kerbing \]*
 
@@ -151,7 +163,11 @@ Also of **HARRIET** \[ *nee COLLARD? \]* his wife / who died January 14<sup>th</
 
 ? / ? **ANN** ? **HENRY COLLARD** / ? / ? grand daughter of JOHN HOGBIN of Monkton Court who died November, ? / ? aged 46 years */// \[Guess? HENRY COLLARD, son of Henry & Elizabeth Collard, baptised 19.5.1796\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF THE ROW, NEAR THE CHURCH TOWER SIDE
+```
 
 20. *\[ shaped stone memorial \]*
 
@@ -221,7 +237,11 @@ also **SARAH** / ? / EDWARD HENRY **HORNE** / died May 22<sup>nd</sup> 1897 / ag
 
 Sacred / to the memory of / **MARY REYNOLDS** / ? / HENRY REYNOLDS ? / ? / ?**JANE** **WHITE** / ? / ?? mother / ?? ? ??? / **RACHEL WHITE**? / /// *\[Mary Reynolds. Monkton Parsonage, buried 23.6.1859, aged 70 years\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF THE ROW, YOU'RE NOW BY THE COTTAGE WALL
+```
 
 29. *\[ sloping stone memorial with a smaller tablet leaning into it \]*
 
@@ -243,7 +263,11 @@ Sacred to the memory of / **MARGARET MAIR GOODALL** / who died July 8<sup>th</su
 
 BASE MEMORIAL:- in loving memory of / **MARGARET ANN SMART** / who died on Nov. 23<sup>rd</sup> 1975 / in her 76<sup>th</sup> year / grand-daughter of above / and daughter of ROBERT ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF THE ROW. GO TO THE TREE, HEAD TOWARDS THE WALL
+```
 
 32. *\[ sloping stone memorial \]*
 
@@ -263,7 +287,11 @@ Sacred / To the memory of / **CAPTAIN / JOHN HENRY MERCER** / second son of / CO
 
 Also to the memory of / **MARIA CORDELIA LOUISA** / infant daughter of the above / who died November 4<sup>th</sup> 1855 / aged 17 days / "The Lord gave and the Lord has ta -/ ken away. Blessed be the name of / the Lord." / 1<sup>st</sup> C Job 21<sup>st</sup> v ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW BY COTTAGE WALL
+```
 
 35. *\[ black stone memorial \]*
 
@@ -345,7 +373,11 @@ Sacred / to the memory / of / **CATHERINE** / Wife of JAMES **MARSH** / who depa
 
 Also the above named **/ JAMES MARSH** / who departed this life / August the 2<sup>nd</sup> 1836 / aged 79?80 years ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW. WALK TOWARD THE COTTAGES WALL
+```
 
 45. *\[ dislodged lozenge with rectangular memorial -- writing on the back \]*
 
@@ -369,7 +401,11 @@ sacred / to the ? / ?? wife of ? / DAVID **PARAMORE** ? / who died 18 ? / aged ?
 
 Also the above named **DAVID PARAMORE** ? / who died February 21<sup>st</sup> 1871 / aged 81 years / for over 50 years the faithful servant / of HENRY COLLARD of Gore Street / in this parish. /// *\[Thanet Union House, Minster\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, YOU'RE NEAR THE CHURCH TOWER WEST DOOR
+```
 
 49. *\[ small rectangular tablet memorial -- writing on front - probably the foot tablet for #48 \]*
 
@@ -425,7 +461,11 @@ Also of **GEORGE ? and / ELIZABETH ? HARVEY** / who departed this life on the / 
 
 SMALL TABLET**:- J. H.** 1839 / **G. H.** 1808 / **E. H.** 1845? ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW BY COTTAGE WALL. GO TO THE PATHWAY SEAT
+```
 
 59. *\[ on 2 stone horizontal platforms, large complete chest tomb -- stone slab entrance at front \]*
 
@@ -449,7 +489,11 @@ Also / to the memory of / the above named **HENRY COLLARD** / ? of this parish /
 
 SMALL TABLET:- **C. ?** J 1795 / **L. ?. J.** 1803? ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NEAR THE CHURCH
+```
 
 63. *\[ very small stone tablet \]*
 
@@ -459,7 +503,11 @@ END OF ROW, NEAR THE CHURCH
 
 ??? ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW. RETURN TO SINGLE GRAVE BY CHURCH PORCH NORTH
+```
 
 65. *\[ tall rectangular stone memorial, a stone lozenge \]*
 
@@ -501,7 +549,11 @@ Also of / **THOMASINE STARK** / the beloved wife of the above / who departed thi
 
 Also of / **SARAH** wife of the above / who died ? 1884 / aged ?74 / ? /// *\[Guess? buried 24.1.1884, aged74 yrs\]?*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NEXT TO SMALLER CREMATORIUM TABLETS
+```
 
 71. *\[ small sloping memorial -- probably paired with #70 \]*
 
@@ -523,7 +575,11 @@ Here lieth ? the / body **of THOMAS HOLLAND** / who died the 2? June / ?aged 6 ?
 
 And also **CATHERINE** ? / who died the 30<sup>th</sup> of ? 1756 / aged ?6 years /// *\[Catherine Holland(s), buried 28.9.1756\]?*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW NEAR THE CHURCH
+```
 
 75. *\[ tall rectangular stone memorial, a stone lozenge, and small stone tablet at foot \]*
 
@@ -573,7 +629,11 @@ Also **JOHN** ? / their grandson died May ? 1826 ? / aged 22? Years ///
 
 ? / **JOHN HOLLOWAY** ? / ? ond in the above ? / departed this life December / ? 25<sup>th</sup> 1775 ?? / aged ? years / ? / ? labour / true unto his friends/ and just unto his neighbours /// *\[buried 1.1.1776\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW. GO TO NORTH WALL STARTING FROM THE MAIN GATE
+```
 
 79. *\[ flat stone memorial, 3 sided kerbing \]*
 
@@ -599,7 +659,11 @@ In / loving memory of / **EMILY ANN DRAY** / wife of GEORGE DRAY / who fell asle
 
 Also of the above / **GEORGE THOMAS** / died Nov 30<sup>th</sup> 1942 / aged 83 years / "Reunited" ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NEXT TO SEAT, HEAD TOWARDS THE CHURCH
+```
 
 82. *\[ small rectangular stone memorial \]*
 
@@ -635,7 +699,11 @@ In Memory Of / **MARY** ? the wife of JOHN ?**MAY**? / Yeoman of Birchington / ?
 
 SMALL STONE:- **M. M.** / 1766 ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW NEXT TO CHURCH
+```
 
 89. *\[ tall rectangular stone memorial with angel face on top \]*
 
@@ -683,7 +751,11 @@ Devoted in love **/ MAJOR TRONSON / *\[ TONY* \] de COUDRAY / LUCKHAM** / 28 Aug
 
 BASE MEMORIAL:- "What is this life if, full of care, / We have no time to stand and stare. / No time to stand beneath the boughs, / And stare as long as sheep or cows. / No time to see, when woods we pass, / Where squirrels hide their nuts in grass, / A poor life this if, full of care, / We have no time to stand and stare." ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, YOU'RE NOW NEXT TO WALL
+```
 
 ??? B/N #95 & #96 !!! UNMARKED **-- ALFRED EDWARD McMULLEN** (d. 10.5.1965); **AMY MAUD** **McMULLE**N (d. 6.1.1967); **RAYMOND FREDERICK DENYER** (grandson) (d. 25.10.1966); **OSWALD PRICE; ROSIE PRICE**.
 
@@ -739,7 +811,11 @@ Also of / **MARTHA DENNE** who died March ?16<sup>th</sup> 1849 / aged 77 years 
 
 MIDDLE:- Here lieth ? ? ? ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW NEXT TO THE CHURCH
+```
 
 103. *\[ grey speckled rectangular stone memorial \]*
 
@@ -759,7 +835,11 @@ Also / **MARY VIOLET / ATKINS / nee NORRIS** / Sept 30<sup>th</sup> 2005 / aged 
 
 \[ **??? MR E. EASTLAND** !!! UNMARKED \]
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, YOU'RE NOW BY THE WALL
+```
 
 107. *\[ large plot with stone cross, 4 stone kerbing, 3 small tablets within plot \]*
 
@@ -801,7 +881,11 @@ Cherished memories / **GEORGE STANLEY THOMAS / HARNETT** / 20 May 1935 -- 14 Jun
 
 ??? ELIZABETH ??? ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NEAR THE TREE
+```
 
 112. *\[ small stone memorial -- probably the foot tablet of #111 \]*
 
@@ -841,7 +925,11 @@ Also their daughter / **ROSE SARAH TURNER** *\[ nee ?THOMAS?GORE? \]* / *( widow
 
 BASE: In loving memory of **FREDERICK JOHN TURNER** / died November 5<sup>th</sup> 1966 aged 72 years ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW BY THE NORTH WALL
+```
 
 118. *\[ small square stone tablet on plinth \]*
 
@@ -867,7 +955,11 @@ WRITING ON POT 1:- Memory of / Dad / Time to say / for you Dad / cry but in my h
 
 WRITING ON POT 2:- Always / Mother / special way / miss you / every day / care of you / love Vi ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW NEAR THE TREE -- GO BACK TO THE NORTH WALL
+```
 
 121. *\[ tall sloping stone memorial \]*
 
@@ -877,7 +969,11 @@ Also / **MARY ANN FULLER** / who died January 17<sup>th</sup> 1904 / aged 58 yea
 
 Also of / **LEWIS HUTCHINSON FULLER** / husband of the above / who died July 8<sup>th</sup> 1915 / aged 72?71 years / "It pleased the Lord to take their lives / from this sad world of pain. / To take them for his own once more / then why should we complain" /// *\[buried 12.7.1915, aged 71 yrs\] {Osborne Bros. Margate}*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW BY THE NORTH WALL
+```
 
 122. *\[ rectangular stone memorial x 2, 4 stone kerbing, stone flowerpot, large plot \]*
 
@@ -887,7 +983,11 @@ RIGHT MEMORIAL:- In Loving Memory of / **MINNIE FULLER** / who departed this lif
 
 Also (Arthur) **FREDERICK FULLER** / Died Oct 28<sup>th</sup> 1948 aged 87 years / "Reunited" /// *\[He took over Sheriffs Court Farm in 1918 until his death in 1948\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 MOVE ACROSS SOUTH TO THE NEXT GRAVESTONES IN LINE
+```
 
 123. *\[ square stone memorial at foot, 3-sided kerbing \]*
 
@@ -1039,7 +1139,11 @@ In / loving memory of / **ROBERT STANLEY VINSON** / husband of ALICE / who died 
 
 In loving memory of / **ALICE VINSON** / who died Feb 18<sup>th</sup> 1951 / aged 68 years ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW NEAR THE TREE
+```
 
 148. *\[ sloping rectangular stone memorial with wing shaped top \]*
 
@@ -1087,7 +1191,11 @@ Also **NELLIE MATILDA *\[ Brown nee Burton*** *\],* daughter of the above / died
 
 RHS:- in loving memory of / **WIN(N)IFRED CHARLOTTE / HUMPHREY** / died Jan 13<sup>th</sup> 1938 / "Abide with me" /// *\[Fordwich, buried 17.1.1938, aged 90 years\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW , NEAR THE SMITH'S FARM GATE IN SOUTH WALL
+```
 
 156. *\[ sloping small tablet -- probably the foot tablet of #157 \]*
 
@@ -1117,7 +1225,11 @@ For memory ? / **Major GEORGE WILLETT** / late 51<sup>st</sup> Dragoon Guards / 
 
 **ELIZABETH HARRIS** ??? ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW NEXT TO THE CHURCH
+```
 
 162. *\[ large rectangular stone memorial, 4-sided kerb + railing + pillars + large plot \]*
 
@@ -1153,7 +1265,11 @@ In / loving memory / of / **IRENE GRACE PRISCILLA WILLETT** / Died 26<sup>th</su
 
 Also her husband / **ROBERT** / of Parsonage Farm / Died 25<sup>th</sup> June 1960 aged 50 / "Buried in Kenya" /// *\[born 8.2.1907, baptised 2.6.1907, son of Henry Thomas & Anne Willett, Parsonage Farm\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW NEXT TO THE CHURCH
+```
 
 168. *\[ rounded pointed rectangular stone memorial \]*
 
@@ -1187,7 +1303,11 @@ In / loving memory of / **MICHAEL JEFFERY WELLARD / SMITH** / 29.8.1918 - 13.4.1
 
 Now reunited with his beloved / **JEAN ELIZABETH SMITH** *\[ nee Brook* \] / 27.9.1927 -- 29.4.2007 / "Both are sadly missed" /// *\[village pub The New Inn renamed White Stag\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW NEXT TO THE SOUTH WALL
+```
 
 174. *\[ small stone rectangular tablet -- ref. #170 \]*
 
@@ -1245,7 +1365,11 @@ Also / **WILLIAM JOHN** / husband of above / Died Oct 23<sup>rd</sup> 1943 aged 
 
 *{ Overton Broadstairs }*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW NEXT TO THE SOUTH WALL
+```
 
 182. *\[ tall rectangular - COMMONWEALTH WAR GRAVE \]*
 
@@ -1279,7 +1403,11 @@ BOTTOM:- ? In / loving memory of? / ? her husband ? **EZRA GEORGE / SHONK** ? / 
 
 **T. J. S.** / 1898 ? / **F. ?. S.** / 1860? */// \[? Thomas Jemima Smith. Frances Jemima Smith ?\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, GO FORWARD WEST TO NEAREST GRAVE
+```
 
 188. *\[ tall rectangular stone memorial -- probably paired with #187 \]*
 
@@ -1301,7 +1429,11 @@ In Loving Memory of / My Dear Husband / WILLIAM THOMAS BUSH / Dearly beloved fat
 
 Badge of the Royal Army Service Corps / 261564 Driver / **J(ohn) MATTHEWS** / Royal Army Service Corps / 29<sup>th</sup> December 1918 /// *\[buried 2.1.1919, aged 30 years. Traveller, with a caravan on the Drove, Army discharge in 1917, died of flu. Not originally included on the Village War Memorial.\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW NEXT TO WALL
+```
 
 192. *\[ reclining 'open book' tablet \]*
 
@@ -1315,7 +1447,11 @@ In / loving memory of / **TOM** / the beloved son of / ISAAC & ROSA / **NORMAN**
 
 In / memory of / **PEARCE BONHAM IRONSIDE / BAX** / Died November 26<sup>th</sup> 1937 / aged 71 ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 GO FORWARD WEST, TO THE SOUTH WALL
+```
 
 194. *\[ very small 3-sided kerbing, with flat tablet \]*
 
@@ -1375,7 +1511,11 @@ Also of the above family ? / **RICHARD MAXTED** / who died August 8<sup>th</sup>
 
 ? / **MARY HAWKES ?** / who died Feb? 23? / 1808? / aged 22? Years ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NEAR CHURCH TOWER WEST DOOR. GO WEST.
+```
 
 204. *\[ tall rectangular stone memorial, and smaller memorial with shaped pointy top memorial leaning together \]*
 
@@ -1441,7 +1581,11 @@ RHS KERB:- in loving memory of my dear husband **CHARLES RIGGS** Died 18<sup>th<
 
 *\[All the family worked at Monkton Court Farm -- village characters. Lived at Gore St.\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 END OF ROW, NOW NEAR TREES AND SOUTH WALL. GO WEST.
+```
 
 210. *\[ rectangular stone memorial, 3-sided kerb, stone flower pot in middle, black stone flower pot at top \]*
 
@@ -1469,7 +1613,11 @@ Cherished memories / **TREVOR (RONALD WILLIAM) ATTWELL** 28.7.1949 -- 3.11.2008 
 
 **PETER ROLFE** / 4.11.1968 -- 8.10.2007 ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 GO NORTH ACROSS TO FINAL GRAVE, HIDDEN UNDER THE TREE
+```
 
 214. *\[ 3-sided kerbing, round shaped stone cross memorial -- UNDER TREE \]*
 
@@ -1493,7 +1641,11 @@ END OF THE ROW, THE FINAL MEMORIAL IN THE CHURCHYARD, NOT INCLUDED IN THE TWO SP
 
 221. **KEN JONES** / 1932 -- *(1.8.)* 2009 / beloved / husband, father and / grandfather / forever in our hearts ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 START A NEW ROW, RIGHT TO LEFT
+```
 
 222. In / fond memory of a / loving husband / dad & grandad **/ JAMES DAVID / FORDHAM** / 1905 -- 1989 / and loving wife / **JESSIE ALICE / FORDHAM** / 20.8.17 -- 28.11. 02 ///
 
@@ -1511,7 +1663,11 @@ ON BACK:- and his wife / **KATHLEEN HARMES** / 1915 -- 1992 ///
 
 228. In / loving memory of / **ALFRED T. J. STORER** / ? died 9.8.1984 ? and / ? aged 70 / /// *\[ ? **Gladys Elizabeth STORER** d. 14.5.1994 aged 85 ? \]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 START A NEW ROW, LEFT TO RIGHT
+```
 
 229. In memory of / **BRIAN H \[*erbert*\] WARD** 1933 -- (15.2.) 2010 /// *\[carpenter, lived at Barnside\]*
 
@@ -1527,7 +1683,11 @@ START A NEW ROW, LEFT TO RIGHT
 
 235. In / Loving Memory Of **/ LUCILLA ELAINE RENNISON** / 6 Sept. 1954 -- 20 March 2020 / "The best and most beautiful things in / the world cannot be seen nor touched / but are felt In the heart" ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 START A NEW ROW, RIGHT TO LEFT
+```
 
 236. **HILARY JOAN THOMAS** / Beloved wife, mother, / grandmother and great grandmother / 2<sup>nd</sup> Dec. 1951 -- 2<sup>nd</sup> Dec. 2023 ///
 
@@ -1545,7 +1705,11 @@ START A NEW ROW, RIGHT TO LEFT
 
 242. In / loving memory / of / **DICK & YVONNE *(EUGENIE)* / FRANCIS** / 1917 -- 1997 / 1924 -- \[ 9.2. \] 2017 ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 START A NEW ROW, RIGHT TO LEFT
+```
 
 243. In memory of / my dearest and / loving wife / **LILLIAN JOAN / LUCAS** / 1922 -- 1996 ///
 
@@ -1559,7 +1723,11 @@ START A NEW ROW, RIGHT TO LEFT
 
 247. In loving memory of / **WILLIAM GEORGE / ANDREWS** / passed away 1<sup>st</sup> July 1996 / aged 88 years / sadly missed by his wife / and family / Also / **IRENE MAY** ***\[nee Attwell\]*** / 11.11.1918 -- 6.6. 2003 / "Reunited with her husband / sadly missed by the family*" \[ **HEATHER JEAN** - died 5.11.2011 aged 64 \]* /// *\[waggoner @ Monkton Ct Farm, ploughed by horse, the last one in Thanet\]*
 
+```{admonition} 🧭 Location help
+:class: note
+
 START A NEW ROW, LEFT TO RIGHT
+```
 
 248. In loving memory of / **KENNETH GEORGE KING** / 22. 9. 1940 -- 12.1.2015 / And / **PAULINE KING** / 20.7.1942 -- 22.10.2024 / "A Loving Couple Reunited ///
 
@@ -1573,7 +1741,11 @@ START A NEW ROW, LEFT TO RIGHT
 
 252. Loving / Memories Of / **RONALD PASCOE** / 2.11.1938 -- 18.1.2020 / My Dearest Husband / and so loved Father & Grandad / "Miss you always -- Love you always / Sleep well my love" // **CHRISTINE MARY PASCOE** / 11.12.1941 / - 11.1.2024 / Much loved Mum, Nan, / and Grandma. / "Always in our thoughts" / XX ///
 
+```{admonition} 🧭 Location help
+:class: note
+
 START A NEW ROW, RIGHT TO LEFT
+```
 
 253. **Reverend / DALWYN R *\[onald\]* ATTWELL** / 7.1.1973 -- 10.7.2021 / Loving Son, Brother, Partner / "Forever In Our Thoughts" ///
 
