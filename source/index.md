@@ -17,7 +17,8 @@ but is now available online in a searchable format.
 :width: 70%
 :align: center
 
-An old postcard of Monkton Church and the stocks.
+An old postcard of Monkton Church and the stocks
+
 ```
 
 ## Explore the information so far...
