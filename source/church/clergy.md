@@ -82,10 +82,10 @@ Monkton was created a vicarage with chapels at Birchington & Wade.
 | 1915 | FREDERICK FABIAN BRACKENBURY |
 | 1927 | HUBERT COLLISON HENHAM *{buried in the churchyard #153}* |
 | 1947 | FREDERICK RICHARD GOWER SMITH *{buried in the churchyard #91}* |
-| 1974 | GEORGE BEDFORD *(1^st^ Vicar of Minster with Monkton)* |
+| 1974 | GEORGE BEDFORD *(1<sup>st</sup> Vicar of Minster with Monkton)* |
 | 1982 | RAYMOND CLIFFORD HOULDSWORTH *{buried in the churchyard #91.5}* |
 | 1996 | ROBERT REGINALD COLES B.Sc. *(priest-in-charge)* |
-| 2014 | RICHARD BRADDY *(1^st^ vicar of the Wantsum Group -- Minster, Monkton, St Nicholas-at-Wade & Chislet)* |
+| 2014 | RICHARD BRADDY *(1<sup>st</sup> vicar of the Wantsum Group -- Minster, Monkton, St Nicholas-at-Wade & Chislet)* |
 | 2023 | JEF FOULGER *(priest-in-charge)* | 
 
 

@@ -44,7 +44,7 @@ THE 2 CHILDREN OF SACKETT & MARY ADAMS :- EMMA ADAMS (1831-55).
 
 **22**. RHS "JOHN ROPER / of Grove House, Littlebourne / and sixth daughter of / ?... / ?188? / "
 
-MID "? to the ? of / ? N ? COLLARD / ? / who died ? / ? / ELIZABETH wife of the above / ? / Mr ? JAMES WHITE / ? / who died ? 11^th^ 1838 ? / aged ? //
+MID "? to the ? of / ? N ? COLLARD / ? / who died ? / ? / ELIZABETH wife of the above / ? / Mr ? JAMES WHITE / ? / who died ? 11<sup>th</sup> 1838 ? / aged ? //
 
 LHS "...second daughter...."
 
@@ -90,7 +90,7 @@ Also of the above WILL ? SMITH / who died the 19 of July 1800 / aged 69 years //
 
 **44**. CATHERINE MARSH, buried 18/6/1812, aged 55 years. JAMES MARSH, buried 7/8/1836, aged 80 years.
 
-**45.** "Here lieth ? / ? of HENRY PARAMOUR ? / of Monkton ? died / ? of June 1763 ? // And also JOHN the son of / the above said HENRY ? / JANE PARAMOUR ? who died / the 16^th^ of May 1740 / aged 13? Years and 11 months ///"
+**45.** "Here lieth ? / ? of HENRY PARAMOUR ? / of Monkton ? died / ? of June 1763 ? // And also JOHN the son of / the above said HENRY ? / JANE PARAMOUR ? who died / the 16<sup>th</sup> of May 1740 / aged 13? Years and 11 months ///"
 
 **46.** "? / ? who departed / ? October / 17 ? year ?"
 
@@ -132,7 +132,7 @@ THE 6 CHILDREN OF RICHARD & MARY :- WILLIAM COOPER, baptised 13/12/1716, buried 
 
 **80**. ON EAST KERB:- "Every day will ?open? a year / ? in God's good time we shall / be reunited."
 
-**84.** ? / ? / of ? / Nov 18^th^ 1733 / aged 36 years ///
+**84.** ? / ? / of ? / Nov 18<sup>th</sup> 1733 / aged 36 years ///
 
 **85.** Here lieth ? body of / MARY ? of ? IOH? / BESH? ? who departed / this life Nov ?18 1772 ? / in ye 26 year of her age ////
 
@@ -168,13 +168,13 @@ THE 9 CHILDREN OF THOMAS & ELIZABETH DENNE :- JOHN DENNE, baptised 31/8/1762, bu
 
 **151**. *\[Guess? SARAH CANTIS, buried 4/3/1711. OR.... Buried 26.7.1730 \]?*
 
-**154**. "Here lieth the Body of / MRS MARY CANTIS, wife ?daughter of / MR VALENTINE CANTIS, of the City / of Canterbury. She departed this / life March the 30^th^ 1762. Aged 71 / a ? Mother ? ?faid VALENTINE CANTIS / who died the 14^th^ of Dec. 1773 / aged 78 years / A ? Ho? / ? also ? / VALENTINE MARY ? CANTIS / who died Dec. 16 ? 1791 ? aged ? years / And like ?? children / \[tree split\] / ? the ? / and ?? / ?? / 1787 aged ? / ? JOHN ? of the ? / ? Son ? / and ?? 7 / ? 1?00 aged 71 ?" //
+**154**. "Here lieth the Body of / MRS MARY CANTIS, wife ?daughter of / MR VALENTINE CANTIS, of the City / of Canterbury. She departed this / life March the 30<sup>th</sup> 1762. Aged 71 / a ? Mother ? ?faid VALENTINE CANTIS / who died the 14<sup>th</sup> of Dec. 1773 / aged 78 years / A ? Ho? / ? also ? / VALENTINE MARY ? CANTIS / who died Dec. 16 ? 1791 ? aged ? years / And like ?? children / \[tree split\] / ? the ? / and ?? / ?? / 1787 aged ? / ? JOHN ? of the ? / ? Son ? / and ?? 7 / ? 1?00 aged 71 ?" //
 
 **157**. GEORGE HILLS, Garlinge, Margate, buried 2/9/1868, aged 68 years.
 
-BOTTOM PART:- Also of ELIZABETH / his wife / who died June 9^th^ 1878, aged ? years. / ? not lost gone before. /// *\[ Guess? ELIZABETH HILLS, Garlinge, buried 22/6/1878. Aged 70 years.\]*
+BOTTOM PART:- Also of ELIZABETH / his wife / who died June 9<sup>th</sup> 1878, aged ? years. / ? not lost gone before. /// *\[ Guess? ELIZABETH HILLS, Garlinge, buried 22/6/1878. Aged 70 years.\]*
 
-**158.** LAURA JONES BIDWELL, second daughter ? / died Jan 10^th^ 1906 aged 80 years / ? day breaks / and the shadows flee away. /// *\[45 Church Rd, Richmond, Surrey, buried 16.1.1906, aged 80 years\]*
+**158.** LAURA JONES BIDWELL, second daughter ? / died Jan 10<sup>th</sup> 1906 aged 80 years / ? day breaks / and the shadows flee away. /// *\[45 Church Rd, Richmond, Surrey, buried 16.1.1906, aged 80 years\]*
 
 **174.** NORA PEGGY LUNN nee Hoey, (see #170) RICHARD ARTHUR LUNN, lost his Moscow factory in the 1917 Revolution, jailed but released in a prisoner exchange. Lived at Monkton Ct Farm with 'Mo' Smith.
 
@@ -196,7 +196,7 @@ MARY MAXTED, buried 25/12/1861, aged 62 years. RICHARD MAXTED, Minster, Thanet U
 
 **203.** MARY HAWKES ? / who died Feb? 23? 1808 ? / aged 22? Years ///
 
-**204.** SARAH ANN(E) STUDHAMS, buried 20/4/1845, aged 9 months. ANN STUDHAMS, died 11^th^ Feb 1846. EDWARD STUDHAM, son of William & Mary Ann Studham, privately, baptised 23/8/1858, buried 29/8/1858, 8 weeks. SARAH STUDHAM, baptised (Sarah Ann Studhams) 23/6/1850, buried 4/10/1874, aged 24 years. MARY ANN STUDHAMS, buried 13/5/1877, aged 54 years.
+**204.** SARAH ANN(E) STUDHAMS, buried 20/4/1845, aged 9 months. ANN STUDHAMS, died 11<sup>th</sup> Feb 1846. EDWARD STUDHAM, son of William & Mary Ann Studham, privately, baptised 23/8/1858, buried 29/8/1858, 8 weeks. SARAH STUDHAM, baptised (Sarah Ann Studhams) 23/6/1850, buried 4/10/1874, aged 24 years. MARY ANN STUDHAMS, buried 13/5/1877, aged 54 years.
 
 THE 12 CHILDREN OF WILLIAM (labourer) & MARY ANN(E) STUDHAM :- GEORGE STUDHAM, baptised 30/4/1843. EMMA STUDHAM, baptised 19/9/1847. WILLIAM STUDHAM, baptised 4/2/1849. SARAH ANN STUDHAM, baptised 23/6/1850, buried 4/10/1874, aged 24 years. JAMES STUDHAM, baptised 8/2/1852. JANE ELIZABETH STUDHAM, baptised 15/1/1854. JOHN SAYER STUDHAM, baptised 28/4/1855. ELLEN STUDHAM, baptised 31/5/1857. EDWARD STUDHAM, privately, baptised 23/8/1858, buried 29/8/1858, 8 weeks. ANNE ELIZABETH STUDHAM, privately, baptised 6/1/1860. FRANCES FURZMAN STUDHAM, baptised 14/9/1862. ALICE MA...? STUDHAM, baptised 24/1/1864.
 

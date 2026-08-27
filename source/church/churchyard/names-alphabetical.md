@@ -501,7 +501,7 @@ HARRIS, Trevor Richard ?.?.???? -- 12.8.1992 (58) 97 E6
 
 HARRIS, William Robert 2.3.1933--12.2.2017 (83) Crem. East of path 249 E31
 
-HARRISON, Jacqueline 18.1.1937 -- 13.^.^6.2023 (86) Crem. East of path 256 E36
+HARRISON, Jacqueline 18.1.1937 -- 13.6.2023 (86) Crem. East of path 256 E36
 
 HARVEY, Elizabeth ?.?.???? -- ? 6.11.1845 (85) 58
 
