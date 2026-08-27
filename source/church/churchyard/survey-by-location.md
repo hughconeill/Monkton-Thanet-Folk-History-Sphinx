@@ -9,7 +9,8 @@ See [Names in alphabetical order](names-alphabetical.md) to look up a
 specific person, or [Named memorial stones in numerical order]
 (numbered-stones.md) for a condensed index.
 
-**MONKTON CHURCHYARD LOCATION DETAILS -- OCTOBER 2025**
+{.location-subheading}
+## MONKTON CHURCHYARD LOCATION DETAILS -- OCTOBER 2025
 
 *{ ____ = an 'educated' guess!? }*
 
@@ -1623,9 +1624,14 @@ GO NORTH ACROSS TO FINAL GRAVE, HIDDEN UNDER THE TREE
 
 ? / ? / ? MARY ANN MILES ? SETTERFIELD / ? / ? ///
 
-END OF THE ROW, THE FINAL MEMORIAL IN THE CHURCHYARD, NOT INCLUDED IN THE TWO SPECIAL CREMATORIUM SECTIONS EITHER SIDE OF THE PATH (1.10.2025)
+```{admonition} 🧭 Location help
+:class: note
 
-**CREMATORIUM TABLETS WEST OF THE PATH STARTING FROM THE PATH, LEFT TO RIGHT & FRONT TO BACK**
+END OF THE ROW, THE FINAL MEMORIAL IN THE CHURCHYARD, NOT INCLUDED IN THE TWO SPECIAL CREMATORIUM SECTIONS EITHER SIDE OF THE PATH (1.10.2025)
+```
+
+{.location-subheading}
+## CREMATORIUM TABLETS WEST OF THE PATH STARTING FROM THE PATH, LEFT TO RIGHT & FRONT TO BACK
 
 215. In / loving memory of / **ALBERT \[ *Ernest* \] HARRIS** / 3.1.1927 -- 31.10.2005 / "Gone / but not forgotten" ///
 
@@ -1693,7 +1699,8 @@ START A NEW ROW, RIGHT TO LEFT
 
 237. In Loving Memory Of / **MICHAEL JOHN / CLEMENTS** / 10.2.1942 -- 17.1.2021 / "Dearly missed by all that knew him ///
 
-**CREMATORIUM TABLETS EAST OF THE PATH STARTING FROM THE PATH, LEFT TO RIGHT & FRONT TO BACK**
+{.location-subheading}
+## CREMATORIUM TABLETS EAST OF THE PATH STARTING FROM THE PATH, LEFT TO RIGHT & FRONT TO BACK
 
 238. In loving memory **/ BARBARA ATTWELL** / 22. 9.1938 -- 1.10.2004 / "She lives with us in / ? memory and will for / evermore" ///
 

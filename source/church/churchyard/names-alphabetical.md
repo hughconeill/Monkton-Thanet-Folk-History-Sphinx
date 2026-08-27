@@ -7,11 +7,12 @@ Directors' Minster burial plan.
 
 Format: **Surname, Forename(s)** — birth/death dates (age at death) — plot reference.
 
-**MONKTON CHURCHYARD -- OCTOBER 2025 -- READABLE NAMES IN ALPHABETHICAL ORDER**
+{.location-subheading}
+## MONKTON CHURCHYARD -- OCTOBER 2025 -- READABLE NAMES IN ALPHABETHICAL ORDER
 
-**Including memorials inside the church, and the details given in the Burials Book from 1953, and Coles Funeral Directors, Minster burials plan.**
+Including memorials inside the church, and the details given in the Burials Book from 1953, and Coles Funeral Directors, Minster burials plan.
 
-**FULL NAME DATES PLOT NUMBER**
+**FULL NAME | DATES | PLOT NUMBER**
 
 ADAMS, Elizabeth ?.?.???? - ? 10.4.1801 (?) 112/111
 
@@ -1153,7 +1154,7 @@ VINSON, Alice ?.?.???? -- 18.2.1951 (68) 147 F21
 
 VINSON, Robert Stanley ?.?.???? -- 14.1.1974 (88) 147 F21
 
-**\<\<\< W**ACHER, Elizabeth ?.?.???? -- 7.12.1868 (71) 68
+WACHER, Elizabeth ?.?.???? -- 7.12.1868 (71) 68
 
 WARD, Brian Herbert ?.?.1933 -- 15.2.2010 (76) Crem. West of path 229 D33
 

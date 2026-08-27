@@ -13,3 +13,10 @@ table.clergy-table th:first-child,
 table.clergy-table td:first-child {
     width: 6rem;
 }
+
+/* Shrink the churchyard survey's section labels (e.g. "CREMATORIUM
+   TABLETS WEST OF THE PATH...") to about half the page-title size,
+   rather than full heading size */
+.location-subheading h2 {
+    font-size: 1.25em;
+}
