@@ -1,0 +1,15 @@
+/* Left-align the sidebar logo instead of Furo's default centering */
+.sidebar-logo {
+    margin-left: 0;
+}
+
+/* Give same-shaped tables (e.g. the clergy lists) matching dimensions
+   instead of each shrinking to fit its own longest row */
+table.clergy-table {
+    width: 100%;
+    table-layout: fixed;
+}
+table.clergy-table th:first-child,
+table.clergy-table td:first-child {
+    width: 6rem;
+}

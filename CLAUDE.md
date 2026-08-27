@@ -28,7 +28,10 @@ without Sphinx warnings/errors and renders as expected.
 ## Architecture
 
 - `source/conf.py` — Sphinx config: MyST + `sphinx_copybutton` + `sphinx_design`
-  extensions, Furo theme, brand colors, logo/favicon.
+  extensions, Furo theme, brand colors, logo/favicon. Also loads
+  `source/_static/custom.css` (via `html_css_files`) for style tweaks the
+  theme's `html_theme_options` can't express — currently just left-aligning
+  the sidebar logo, which Furo centers by default.
 - `source/index.md` — home page. Its `toctree` is the actual site nav; only pages
   listed there (directly or via a nested `toctree`) are reachable/built into the
   visible site. **When adding a new page, it must be added to a `toctree` or it

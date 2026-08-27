@@ -605,7 +605,7 @@ HORSBURGH, Raymond Charles Rennie 7.10.2025 -- 3.3.2016 (90) 94 E28
 
 HOULDSWORTH, Revd Raymond Clifford ?.?.???? -- 4.4.2012 (81)
 
-> *{unmarked E. of #91}* E42
+→ *{unmarked E. of #91}* E42
 
 HUCKSTEP, Eileen Doris *\[nee Andrews*\]??1942--30.9.2003 (62)Crem. East of path240 E20
 
@@ -1215,7 +1215,7 @@ WRAIGHT, Elizabeth ?.?.???? -- 24.7.1964 ? (82) C14
 
 YOUNG, Joan Margaret \[ *nee Harlow* \] ?.?.???? - ?.?.1989 *\[ buried 24/6/91 \] (?)*
 
-> *New Zealand !!!*
+→ *New Zealand !!!*
 
 YOUNG, ? Mary ?.?.???? -- 20.2.1712 (4 months) 14 Nave
 

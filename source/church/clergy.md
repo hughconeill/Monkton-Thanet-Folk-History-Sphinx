@@ -9,6 +9,7 @@ The church at Monkton was in existence at the time of the Doomsday Survey 1086, 
 
 **EARLY RECTORS OF MONKTON**
 
+{.clergy-table}
 | Date | Name |
 |------|------|
 | 1291 | RICHARD de PEVENSE |
@@ -21,10 +22,15 @@ The church at Monkton was in existence at the time of the Doomsday Survey 1086, 
 | 1356 | THOMAS BARKER |
 | 1361 | THOMAS TUFORD |
 
-> **In 1361 Monkton was created a vicarage with chapels at Birchington & Wade**
+```{admonition} 1361 — Monkton becomes a Vicarage
+:class: important
+
+Monkton was created a vicarage with chapels at Birchington & Wade.
+```
 
 **VICARS OF MONKTON**
 
+{.clergy-table}
 | Date | Name |
 |------|------|
 | 1367 | HENRY de WOOTON |

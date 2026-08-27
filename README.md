@@ -32,6 +32,7 @@ docs-site/
     ├── faq.md
     ├── _static/images/    # Photos and scans go here (currently grey
     │                       # placeholder JPGs — swap these out)
+    ├── _static/custom.css # Site-wide CSS overrides (loaded via html_css_files)
     └── _templates/         # Custom HTML template overrides (optional)
 ```
 
@@ -132,6 +133,11 @@ https://pradyunsg.me/furo/customisation/
 
 To add a logo or favicon, drop the image file in `source/_static/` and
 uncomment the `html_logo` / `html_favicon` lines in `conf.py`.
+
+For tweaks the theme options don't cover, `source/_static/custom.css`
+is loaded on every page via `html_css_files` in `conf.py`. It currently
+just left-aligns the sidebar logo (Furo centers it by default) —
+add further overrides there rather than editing the theme itself.
 
 ## Publishing via GitHub Pages (automatic)
 

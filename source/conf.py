@@ -30,10 +30,13 @@ myst_enable_extensions = [
     "substitution",      # {{ variable }} substitutions
     "tasklist",           # - [ ] checkboxes
     "attrs_inline",      # {.class} attributes on inline elements
+    "attrs_block",       # {.class} attributes on the preceding block (e.g. tables)
 ]
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+
+html_css_files = ["custom.css"]
 
 # -- Options for HTML output ---------------------------------------------------
 

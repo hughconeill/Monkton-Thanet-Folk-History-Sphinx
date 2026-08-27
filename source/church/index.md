@@ -20,16 +20,22 @@ building and across its churchyard.
 The church's own visitor guide — architecture and history.
 :::
 
+:::{grid-item-card} 🔔 The Six Bells
+:link: bells
+:link-type: doc
+History of the peal, from the C17th to 2018.
+:::
+
 :::{grid-item-card} ✝️ Clergy, 1291–2025
 :link: clergy
 :link-type: doc
 Every recorded rector and vicar of Monkton.
 :::
 
-:::{grid-item-card} 🔔 The Six Bells
-:link: bells
+:::{grid-item-card} 🌳 The Churchyard
+:link: churchyard/index
 :link-type: doc
-History of the peal, from the C17th to 2018.
+Full survey of the churchyard — hundreds of graves, by location, name, and plot number.
 :::
 
 :::{grid-item-card} 🪦 War Memorial
@@ -44,22 +50,16 @@ Names of the Monkton men who died in the two World Wars.
 Fourteen tablets and floor stones inside the church.
 :::
 
-:::{grid-item-card} 🌳 The Churchyard
-:link: churchyard/index
-:link-type: doc
-Full survey of the churchyard — hundreds of graves, by location, name, and plot number.
-:::
-
 ```{toctree}
 :maxdepth: 1
 
 short-guide
-clergy
 bells
+clergy
+churchyard/index
 richard-culmer
 war-memorial
 memorials-inside
-churchyard/index
 ```
 
 ::::
