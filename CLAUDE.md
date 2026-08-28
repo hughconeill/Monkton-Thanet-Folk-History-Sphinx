@@ -36,19 +36,30 @@ without Sphinx warnings/errors and renders as expected.
   listed there (directly or via a nested `toctree`) are reachable/built into the
   visible site. **When adding a new page, it must be added to a `toctree` or it
   won't appear in the sidebar.**
-- **Live content**: `source/church/` is the only section currently linked from
+- **Live content**: `source/church/` and `source/history/` are linked from
   `index.md`. `source/church/index.md` has its own `toctree` fanning out to
-  `short-guide.md`, `clergy.md`, `bells.md`, `richard-culmer.md`, `war-memorial.md`,
-  `memorials-inside.md`, and `churchyard/index.md` (which itself fans out to
-  `names-alphabetical.md`, `numbered-stones.md`, `survey-by-location.md`,
-  `register-appendix.md` — the churchyard survey data).
-- **Scaffold/placeholder content, not yet linked into the site**: `source/history/`,
+  `short-guide.md`, `bells.md`, `clergy.md`, `churchyard/index.md` (which itself
+  fans out to `names-alphabetical.md`, `numbered-stones.md`,
+  `survey-by-location.md`, `register-appendix.md` — the churchyard survey data),
+  `richard-culmer.md`, `war-memorial.md`, and `memorials-inside.md`.
+  `source/history/index.md` fans out to two columns by Terry Marsh, originally
+  published in the Monkton News parish magazine and extracted from scanned
+  `.docx` copies: `monkton-memories/` (childhood/village-life reminiscences,
+  numbered `01-`…`06-`) and `farming-life/` (his working life on local farms
+  from 1976 on, numbered `01-`…`22-`). Each article page ends with a
+  `*Terry Marsh*` byline and an "Originally published in the Monkton News
+  (Month Year)." line. New issues of the magazine will surface more instalments
+  of both columns later — renumbering/re-titling them then is expected.
+- **Scaffold/placeholder content, not yet linked into the site**: `source/history/origins.md`,
+  `source/history/the-mill.md`, `source/history/twentieth-century.md`,
   `source/people/`, `source/places.md`, `source/faq.md`, `source/timeline.md`,
   `source/sources.md`. These still contain bracketed placeholders (e.g. `[Manor Name]`,
   `[Record Office reference]`) and template guidance text left over from the initial
   scaffold. Don't treat their presence as evidence a topic is "done" — check whether
   they're wired into a `toctree` and whether the bracketed placeholders have been
-  replaced with real content/citations.
+  replaced with real content/citations. They are deliberately left out of
+  `source/history/index.md`'s `toctree` for now, since they're unrelated to the
+  Terry Marsh columns and not ready to publish.
 - Images referenced from `history/`/`people/`/church pages sometimes point at
   `_static/images/placeholder-*.jpg` (literal grey placeholders) — replace with real
   scans before treating a page as finished. Some newer pages (e.g. `index.md`,

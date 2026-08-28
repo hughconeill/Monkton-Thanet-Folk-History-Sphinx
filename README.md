@@ -17,11 +17,13 @@ docs-site/
     ├── conf.py           # Sphinx configuration
     ├── index.md          # Home page
     ├── about.md           # About the project / how to contribute
-    ├── history/            # Chronological chapters
+    ├── history/            # Village history and reminiscence
     │   ├── index.md
-    │   ├── origins.md
-    │   ├── the-mill.md
-    │   └── twentieth-century.md
+    │   ├── monkton-memories/  # Terry Marsh's Monkton News column (numbered)
+    │   ├── farming-life/      # Terry Marsh's Monkton News column (numbered)
+    │   ├── origins.md         # unlinked scaffold — see CLAUDE.md
+    │   ├── the-mill.md        # unlinked scaffold — see CLAUDE.md
+    │   └── twentieth-century.md  # unlinked scaffold — see CLAUDE.md
     ├── timeline.md         # Quick-reference date table
     ├── people/              # One page per notable person/family
     │   ├── index.md

@@ -32,6 +32,12 @@ An old postcard of Monkton Church and the stocks
 St Mary Magdalene: architecture, clergy, bells, and memorials.
 :::
 
+:::{grid-item-card} 📜 History
+:link: history/index
+:link-type: doc
+Monkton Memories and A Farming Life — Terry Marsh's columns from the Monkton News.
+:::
+
 :::{grid-item-card} 🖼️ Gallery
 :link: gallery
 :link-type: doc
@@ -46,6 +52,7 @@ Historical photographs and images.
 
 about
 church/index
+history/index
 gallery
 ```
 
