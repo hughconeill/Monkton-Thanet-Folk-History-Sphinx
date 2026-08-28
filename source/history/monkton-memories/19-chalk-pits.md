@@ -1,4 +1,4 @@
-# 3. Chalk Pits
+# 19. Chalk Pits
 
 All of the farms within the Parish have or had a Chalk Pit. Chalk was excavated from these pits for centuries. Chalk is excellent for making a hard base for roadways and the floors of barns. Once laid, the chalk is crushed with a heavy roller and then ideally allowed to get wet and dry out, when it will then set almost like concrete. The surface should then be topped-off with material such as shingle or road chippings.
 

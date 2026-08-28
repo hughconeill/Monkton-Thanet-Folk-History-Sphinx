@@ -1,4 +1,4 @@
-# 5. Plum Pudding Island, Part One
+# 21. Plum Pudding Island, Part One
 
 For those of you who don't know, 'Plum Pudding Island' is about half a mile Reculver side of Minnis Bay. If you have walked or cycled along the sea wall at low tide, you will have seen the old sewer pipe running out into the sea for about a third of a mile. Where there is now a camping site and horse-riding centre was once a sewage treatment plant. This is Plum Pudding Island.
 

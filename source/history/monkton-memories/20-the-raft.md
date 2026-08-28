@@ -1,4 +1,4 @@
-# 4. The Raft
+# 20. The Raft
 
 In about 1969, myself and a couple of friends decided that we wanted to make a raft. Before the marshes were drained there was only one stream that was wide and deep enough on which you could float and manoeuvre a raft. This was the main stream that runs from Docker Hill Farm down towards the railway and on towards the Abbots Wall. In 1969, before the marshes were drained, where this stream starts you could see spring water bubbling up from dark holes in the bottom of the stream and water flowed out from the small wood all year round.
 

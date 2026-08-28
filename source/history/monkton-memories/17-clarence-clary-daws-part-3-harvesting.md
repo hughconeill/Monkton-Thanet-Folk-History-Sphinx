@@ -1,4 +1,4 @@
-# 1. Clarence 'Clary' Daws (Part 3) - Harvesting
+# 17. Clarence 'Clary' Daws (Part 3) - Harvesting
 
 Harvesting Clary's crops was done the same as the larger farms in Thanet, but on a much smaller scale. Apart from the small tonnage of wheat and barley he grew, all of his vegetables went to local small greengrocers of which there were many in the 1960's/70's.
 
