@@ -3,19 +3,12 @@
     margin-left: 0;
 }
 
-/* Render table cells as individual coloured blocks (rather than a plain
-   grid), using the theme-aware --color-table-row-alt set in conf.py.
-   Applies to every body cell, so even single-row tables get a background. */
-table.docutils {
-    border-collapse: separate;
-    border-spacing: 0.3rem 0.15rem;
-}
+/* Give table cells a subtle background tint so they read as a table
+   more clearly, without overpowering the page. The bolder "chip" look
+   lives on the grid cards instead (see color-card-background/-border
+   in conf.py). */
 table.docutils td {
     background-color: var(--color-table-row-alt);
-    border: 2px solid #ffffff;
-    border-radius: 0.4rem;
-    padding: 0.4rem 0.7rem;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }
 
 /* Give same-shaped tables (e.g. the clergy lists) matching dimensions
