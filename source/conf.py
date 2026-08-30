@@ -51,13 +51,13 @@ html_theme_options = {
         "color-brand-primary": "#2563eb",
         "color-brand-content": "#2563eb",
         "color-sidebar-background": "#e7ebf2",
-        "color-table-row-alt": "#dbe7fb",
+        "color-table-row-alt": "#bfdbfe",
     },
     "dark_css_variables": {
         "color-brand-primary": "#60a5fa",
         "color-brand-content": "#60a5fa",
         "color-sidebar-background": "#101114",
-        "color-table-row-alt": "#1b2740",
+        "color-table-row-alt": "#1e3a8a",
     },
     # Uncomment and edit if you have a repo:
     # "source_repository": "https://github.com/yourname/yourrepo/",

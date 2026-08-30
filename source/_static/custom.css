@@ -12,9 +12,10 @@ table.docutils {
 }
 table.docutils td {
     background-color: var(--color-table-row-alt);
-    border: none;
+    border: 2px solid #ffffff;
     border-radius: 0.4rem;
     padding: 0.4rem 0.7rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
 }
 
 /* Give same-shaped tables (e.g. the clergy lists) matching dimensions
