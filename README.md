@@ -52,6 +52,11 @@ docs-site/
   elsewhere — note where in `sources.md`. Reference them with the
   `{figure}` directive (adds a numbered caption) as shown throughout
   the `history/` and `people/` pages.
+- **Downloadable documents** (e.g. PDFs) go directly in `source/_static/`.
+  Link to them with a plain Markdown link (`[label](../_static/file.pdf)`,
+  adjusting the relative path to the page); MyST/Sphinx automatically
+  turns links to non-HTML files into proper downloads — see
+  `history/index.md`'s Monkton 1926 map for an example.
 
 ## Setup
 
