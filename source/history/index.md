@@ -6,7 +6,7 @@ Village history and reminiscence that will be added to as available.
 
 | Special feature |
 |---|
-| [**Monkton 1926**](monkton-1926.md) — Stuart Horsburgh's Centenary Mile Walk, with the four-zone village map. |
+| [**Monkton 1926**](monkton-1926.md) — Stuart Horsburgh's Centenary Mile Walk, with a map of the village as it looked in 1926. |
 
 ## Regular columns
 

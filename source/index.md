@@ -4,9 +4,13 @@ Welcome to the community history archive for Monkton.
 This is an ongoing project to gather information and personal histories in the village led by Stuart Horsburgh.
 
 ```{admonition} Version 2
-:class: note
+:class: tip
 
-This second edition of the website adds a new History section with 2 
+This is the second edition of the Monkton History website. In this version we have added a new **History** section with the following features:
+
+- Terry Marsh's excellent personal history of village in the original 2 series - **Monkton Memories** and **A Farming Life**
+- The **Centenary Trail** - see how Monkton has changed in the last 100 years by following Stuart's map showing what the village looked like in 1926.
+
 ```
 
 ```{figure} https://res.cloudinary.com/monkton/image/upload/v1786114532/Monkton_church_kn8msz.png
