@@ -27,6 +27,11 @@ Childhood and village-life reminiscences by Terry Marsh.
 Terry Marsh's working life on Monkton and Thanet farms, from 1976 onwards.
 :::
 
+::::
+
+{.toc-heading}
+Table of Contents
+
 ```{toctree}
 :maxdepth: 1
 
@@ -34,5 +39,3 @@ monkton-1926
 monkton-memories/index
 farming-life/index
 ```
-
-::::

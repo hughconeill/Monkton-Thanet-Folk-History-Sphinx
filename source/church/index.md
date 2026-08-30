@@ -50,6 +50,11 @@ Names of the Monkton men who died in the two World Wars.
 Fourteen tablets and floor stones inside the church.
 :::
 
+::::
+
+{.toc-heading}
+Table of Contents
+
 ```{toctree}
 :maxdepth: 1
 
@@ -62,4 +67,3 @@ war-memorial
 memorials-inside
 ```
 
-::::

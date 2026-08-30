@@ -3,6 +3,20 @@
     margin-left: 0;
 }
 
+/* Render table cells as individual coloured blocks (rather than a plain
+   grid), using the theme-aware --color-table-row-alt set in conf.py.
+   Applies to every body cell, so even single-row tables get a background. */
+table.docutils {
+    border-collapse: separate;
+    border-spacing: 0.3rem 0.15rem;
+}
+table.docutils td {
+    background-color: var(--color-table-row-alt);
+    border: none;
+    border-radius: 0.4rem;
+    padding: 0.4rem 0.7rem;
+}
+
 /* Give same-shaped tables (e.g. the clergy lists) matching dimensions
    instead of each shrinking to fit its own longest row */
 table.clergy-table {
@@ -57,4 +71,17 @@ table.stones-table td:nth-child(1) {
 table.stones-table th:nth-child(2),
 table.stones-table td:nth-child(2) {
     width: 88%;
+}
+
+/* Standard "Table of Contents" label used on section-index pages. A plain
+   paragraph rather than a real heading (##/###), so its level never
+   depends on whether the page has an H2, and it doesn't clutter the
+   page's own on-page contents list. Sized like h3 but in the brand
+   colour so it reads as a distinct, consistent, recurring UI element. */
+.toc-heading {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: var(--color-brand-content);
+    margin-top: 1.75rem;
+    margin-bottom: 0.5rem;
 }

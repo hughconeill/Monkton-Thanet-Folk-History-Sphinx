@@ -47,6 +47,9 @@ Historical photographs and images.
 
 ::::
 
+{.toc-heading}
+Table of Contents
+
 ```{toctree}
 :maxdepth: 2
 :caption: Contents
