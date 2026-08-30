@@ -1,11 +1,11 @@
 # Monkton 1926
 
-**A Folk History of Monkton, Thanet, Kent**
+**What Monkton looked like 100 years ago - The Centenary Trail**
 
 Change is all around us. I hope it's possible to strip back the many recent
 changes in our village of Monkton (or Monocstun – the "Monks Land") to
 reveal the fertile farming community of 100 years ago. My "Centenary Mile
-Walk of 1926" (use the pull-out map on the middle pages) will take you along
+Walk of 1926" (download the map from the link below) will take you along
 that journey pointing out the small tied farm-cottages, the large houses,
 and the even larger farmhouses. Amongst them are the barns and sheds to
 store the harvest of hops, cherries, strawberries, apples, cucumbers,

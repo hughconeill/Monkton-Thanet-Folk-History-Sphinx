@@ -8,7 +8,7 @@ Village history and reminiscence that will be added to as available.
 |---|
 | [**Monkton 1926**](monkton-1926.md) — Stuart Horsburgh's Centenary Mile Walk, with a map of the village as it looked in 1926. |
 
-## Regular columns
+## Articles
 
 This first installment are Terry Marsh's regular contributions to the Monkton News magazine.
 
