@@ -1,7 +1,8 @@
 # History
 
-Village history and reminiscence, drawn from the Monkton News parish
-magazine.
+Village history and reminiscence that will be added to as available.
+
+This first installment are Terry Marsh's regular contributions to the Monkton News magazine.
 
 ::::{grid} 1 2 2 2
 :gutter: 3

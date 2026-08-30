@@ -3,13 +3,10 @@
 Welcome to the community history archive for Monkton. 
 This is an ongoing project to gather information and personal histories in the village led by Stuart Horsburgh.
 
-```{admonition} Version 1
-:class: tip
+```{admonition} Version 2
+:class: note
 
-This launch version of the website contains the history of the church and index of the graves and memorials 
-in the building and churchyard.
-The information has been available for some time in book form - available in a box in the churchyard
-but is now available online in a searchable format.
+This second edition of the website adds a new History section with 2 
 ```
 
 ```{figure} https://res.cloudinary.com/monkton/image/upload/v1786114532/Monkton_church_kn8msz.png
