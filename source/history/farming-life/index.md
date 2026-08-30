@@ -35,4 +35,7 @@ An early combine harvester working in Monkton.
 20-farming-1995-2015-tractors
 21-farming-in-monkton
 22-close-calls-on-the-farm
+23-close-calls-on-the-farm-continued
+24-close-calls-on-the-farm-continued
+25-the-dry-summer-of-2026
 ```
