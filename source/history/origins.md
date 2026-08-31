@@ -13,14 +13,27 @@ several centuries of the village belonging to the monks of Christ
 Church Priory, Canterbury (see below), but the site was already
 settled long before that.
 
-A large Anglo-Saxon cemetery has been identified at Monkton. A
-pipe-trench survey found it extended around 370 yards (338 m)
-west–east across the downland, adjoining "Dunstrete", the old
-trackway that is now the line of the A253 — a position that parallels
-other Anglo-Saxon cemeteries sited next to a boundary track. An
-earlier find on Primrose Hill in 1879 (a skeleton with a knife and
-several pieces of pottery) suggests the burial ground extends further
-still. Full details are in the Kent Archaeological Society's write-up:
+A large Anglo-Saxon cemetery has been identified at Monkton, on the
+southern slope of a low chalk ridge about half a kilometre north of
+the village, close to Walters Hall Farm — the farm named on the
+[1926 map](monkton-1926.md) and listed in [Places](../places.md)
+(grid reference TR 29089 65537). It lies just south of the modern
+A253, which follows the line of "Dunstrete", an ancient east–west
+trackway across Thanet — a position that parallels other Anglo-Saxon
+cemeteries sited next to a boundary track. Until around the 14th
+century, Monkton also bordered the Wantsum Channel, the now-silted
+waterway that once separated Thanet from mainland Kent.
+
+A pipe-trench survey found the cemetery extended around 370 yards
+(338 m) west–east and 200 yards (183 m) north–south, with burials
+mainly of the 6th–7th centuries AD. An earlier find nearby on
+Primrose Hill in 1879 (a skeleton with a knife and several pieces of
+pottery) suggests the burial ground extends further still.
+
+Sources:
+[Kent Historic Environment Record — Jutish Cemetery, Monkton, Thanet](https://heritage.kent.gov.uk/Monument/MKE6345)
+(Kent County Council); for the original excavation report, see the
+Kent Archaeological Society's
 [The Anglo-Saxon Cemetery at Monkton, Thanet](https://www.kentarchaeology.org.uk/journal/89/anglo-saxon-cemetery-monkton-thanet)
 (*Archaeologia Cantiana*, vol. 89).
 
