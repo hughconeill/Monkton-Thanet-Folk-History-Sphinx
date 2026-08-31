@@ -51,6 +51,12 @@ Monkton's listed buildings, from Historic England's register.
 Recent local and regional press coverage of Monkton.
 :::
 
+:::{grid-item-card} 🌍 Other Monktons
+:link: other-monktons
+:link-type: doc
+Every other Monkton we've found, in the UK and beyond.
+:::
+
 :::{grid-item-card} 🖼️ Gallery
 :link: gallery
 :link-type: doc
@@ -71,6 +77,7 @@ church/index
 history/index
 places
 news
+other-monktons
 gallery
 ```
 
