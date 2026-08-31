@@ -58,8 +58,12 @@ without Sphinx warnings/errors and renders as expected.
   `source/history/origins.md` (Anglo-Saxon/medieval Monkton, sourced from
   British History Online's Hasted transcription and the Kent Archaeological
   Society journal). `source/places.md` (linked from the root `index.md`) lists
-  Monkton's 22 Historic England-listed buildings. Unlike the rest of the site,
-  these pages cite external web sources with inline Markdown links directly in
+  Monkton's 22 Historic England-listed buildings. `source/news.md` collects
+  published local/regional press coverage of Monkton (most recent first).
+  `source/other-monktons.md` lists other places named Monkton worldwide
+  (England, Wales, Scotland, North America, plus one non-place curiosity),
+  grouped into Markdown tables by region. Unlike the rest of the site, these
+  pages cite external web sources with inline Markdown links directly in
   the prose, rather than the footnote-to-`sources.md` convention below — there
   is no `sources.md` in this project (an earlier placeholder version was
   removed; it hasn't been recreated).
@@ -81,7 +85,8 @@ without Sphinx warnings/errors and renders as expected.
   Markdown footnote (`[^label]` ... `[^label]: full citation`) linking back to a
   `source/sources.md` organized by record type — that file no longer exists (see
   above), so this isn't in active use. Pages sourced from the open web
-  (`origins.md`, `places.md`, `monkton-1926.md`) instead cite with inline
+  (`origins.md`, `places.md`, `monkton-1926.md`, `news.md`,
+  `other-monktons.md`) instead cite with inline
   Markdown links directly in the prose/a trailing "Source(s):" line, pointing at
   the original page (British History Online, Historic England, Wikipedia, etc.)
   — prefer the most authoritative/primary source available (e.g. link a listed
