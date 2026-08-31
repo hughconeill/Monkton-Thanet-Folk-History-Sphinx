@@ -90,6 +90,38 @@ on British History Online). For the church's architecture rather than
 its administrative history, see the
 [Short Guide to St Mary Magdalene](../church/short-guide.md).
 
+## Monkton in the Second World War
+
+Monkton Marshes was the site of one of two decoy "Q" airfields built
+to protect RAF Manston, three miles to the north-east (the other was
+at Ash Level, near Sandwich). Built under the Royal Engineers'
+Colonel John Turner, these decoys used dummy flare paths, taxiing
+lights, and obstruction lights — worked through the night by two
+aircraftmen in a blast-proof control shelter — to draw Luftwaffe
+bombers into dropping their bombs over open marshland rather than
+the real airfield. Nearly 150 such "Q" sites were built across
+southern and eastern England, and between them drew 859.65 tonnes of
+bombs in 521 attacks meant for their parent stations by the end of
+the war. Little has been recorded of the Monkton site specifically —
+the Kent Archaeological Society researchers who explored and
+photographed Manston's other decoy, at Ash Level, mention Monkton
+Marshes only in passing, and its exact location and condition don't
+yet appear to have been documented in the same detail.
+
+Monkton's chalk pits — later reclaimed as the Nature Reserve — also
+played a small part in Manston's wartime story after the fact: when
+the airfield's main runway was rebuilt and concreted in 1945, chalk
+dug from the Monkton pits helped fill the undulations beneath it.
+
+Sources: Paul Tritton,
+["Discovering Kent's Wartime Airfields That Never Were"](https://www.kentarchaeology.org.uk/magazine/117/07-discovering-kents-wartime-airfields-that-never-were),
+*Kent Archaeological Society* magazine (New Year 2022); KentOnline,
+["The tumultuous history of Kent's most divisive airport"](https://www.kentonline.co.uk/thanet/news/the-tumultuous-history-of-kents-most-divisive-airport-276080/).
+For the chalk pits' own later story — quarrying through the 20th
+century and their 1985 opening as a nature reserve — see
+[In the News](../news.md) and Terry Marsh's
+[Monkton Memories](monkton-memories/19-chalk-pits.md).
+
 ## Monkton today
 
 The civil parish (which includes the hamlet of Gore Street) sits at
