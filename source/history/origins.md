@@ -8,10 +8,13 @@ cemetery, and a gift from a Saxon queen.
 ## Anglo-Saxon Monkton
 
 Monkton's name is thought to come from "Monks' town" — in the
-Domesday Survey of 1086 it appears as *Monocstune*. That name reflects
-several centuries of the village belonging to the monks of Christ
-Church Priory, Canterbury (see below), but the site was already
-settled long before that.
+Domesday Survey of 1086 it appears as *Monocstune*, a spelling Hasted
+attributes to the village "being part of the possessions of the
+monks of the priory of Christ-church, in Canterbury"
+([Parishes: Monkton](https://www.british-history.ac.uk/survey-kent/vol10/pp253-264),
+British History Online — more from the same source below). That
+several-century link to the priory is covered in its own section
+below, but the site was already settled long before it began.
 
 A large Anglo-Saxon cemetery has been identified at Monkton, on the
 southern slope of a low chalk ridge about half a kilometre north of
@@ -51,6 +54,11 @@ Monkton was also, for a time, a market town: Henry VI granted a
 Saturday market and an annual fair on St Mary Magdalene's day (22
 July), for the sale of hogs — long since lapsed.
 
+Source (this section and the next): Edward Hasted's *The History and
+Topographical Survey of the County of Kent* (1800), the standard
+18th-century county history, as reproduced by British History Online:
+[Parishes: Monkton](https://www.british-history.ac.uk/survey-kent/vol10/pp253-264).
+
 ## The church and the vicarage
 
 The church of St Mary Magdalene was appropriated to Christ Church
@@ -75,29 +83,28 @@ tried to reconcile them.
 Later priors left their own mark: Prior Selling built a new dormitory
 around 1480, and Prior Goldstone added two barns around 1500.
 
-By 1563 the parish had around 15 households.
-
-This administrative and monastic history is drawn from Edward
-Hasted's *The History and Topographical Survey of the County of Kent*
-(1800), the standard 18th-century county history, as reproduced by
-British History Online:
-[Parishes: Monkton](https://www.british-history.ac.uk/survey-kent/vol10/pp253-264).
-For the church's architecture rather than its administrative history,
-see the [Short Guide to St Mary Magdalene](../church/short-guide.md).
+By 1563 the parish had around 15 households (same source as above:
+Hasted's *Survey of Kent*, via
+[Parishes: Monkton](https://www.british-history.ac.uk/survey-kent/vol10/pp253-264)
+on British History Online). For the church's architecture rather than
+its administrative history, see the
+[Short Guide to St Mary Magdalene](../church/short-guide.md).
 
 ## Monkton today
 
 The civil parish (which includes the hamlet of Gore Street) sits at
 the south-west edge of the Isle of Thanet, along the B2047 between
 Canterbury and Ramsgate, with a recorded population of 661 at the
-2011 census. Monkton Primary School was founded in 1872. The old
-chalk quarry at Monkton Nature Reserve, reclaimed as a wildlife site,
-comes up repeatedly in Terry Marsh's
-[Monkton Memories](monkton-memories/index.md) — see, for instance,
-his piece on the [old chalk pits](monkton-memories/19-chalk-pits.md),
-which describes Willett's chalk pit becoming the Nature Reserve.
+2011 census. Monkton Primary School was founded in 1872. (Source for
+this paragraph: [Monkton, Kent — Wikipedia](https://en.wikipedia.org/wiki/Monkton,_Kent).)
 
-Sources: [Monkton, Kent — Wikipedia](https://en.wikipedia.org/wiki/Monkton,_Kent).
+The old chalk quarry at Monkton Nature Reserve, reclaimed as a
+wildlife site, comes up repeatedly in Terry Marsh's
+[Monkton Memories](monkton-memories/index.md) — not from the Wikipedia
+source above, but from the site's own primary material — see, for
+instance, his piece on the
+[old chalk pits](monkton-memories/19-chalk-pits.md), which describes
+Willett's chalk pit becoming the Nature Reserve.
 
 ```{admonition} About these sources
 :class: note
