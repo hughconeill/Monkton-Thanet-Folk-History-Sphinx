@@ -1,11 +1,9 @@
 # The History of Monkton — Sphinx Documentation Site
 
-A Sphinx documentation site for a village history project, written in
-**Markdown** (via [MyST](https://myst-parser.readthedocs.io/)) with
-the [Furo](https://pradyunsg.me/furo/) theme. Pre-populated with
-sample content for a fictional village ("Monkton") so you can see
-how the layout, image captions, and source citations work — replace
-the placeholder text and images with your own research.
+A Sphinx documentation site recording the history of Monkton (Thanet, Kent),
+written in **Markdown** (via [MyST](https://myst-parser.readthedocs.io/)) with
+the [Furo](https://pradyunsg.me/furo/) theme — see `CLAUDE.md` for what's
+actually live on the site versus still in progress.
 
 ## Project layout
 
@@ -19,34 +17,34 @@ docs-site/
     ├── about.md           # About the project / how to contribute
     ├── history/            # Village history and reminiscence
     │   ├── index.md
+    │   ├── monkton-1926.md    # Stuart Horsburgh's 1926 centenary walk + map
+    │   ├── origins.md         # Anglo-Saxon/medieval Monkton, from web sources
     │   ├── monkton-memories/  # Terry Marsh's Monkton News column (numbered)
-    │   ├── farming-life/      # Terry Marsh's Monkton News column (numbered)
-    │   ├── origins.md         # unlinked scaffold — see CLAUDE.md
-    │   ├── the-mill.md        # unlinked scaffold — see CLAUDE.md
-    │   └── twentieth-century.md  # unlinked scaffold — see CLAUDE.md
-    ├── timeline.md         # Quick-reference date table
-    ├── people/              # One page per notable person/family
-    │   ├── index.md
-    │   └── example-resident.md
-    ├── places.md            # Landmarks and buildings
+    │   └── farming-life/      # Terry Marsh's Monkton News column (numbered)
+    ├── places.md            # Monkton's listed buildings (Historic England)
     ├── gallery.md           # Photo gallery
-    ├── sources.md           # Master bibliography — see below
-    ├── faq.md
     ├── _static/images/    # Photos and scans go here (currently grey
     │                       # placeholder JPGs — swap these out)
     ├── _static/custom.css # Site-wide CSS overrides (loaded via html_css_files)
     └── _templates/         # Custom HTML template overrides (optional)
 ```
 
+Earlier scaffold pages (`timeline.md`, `people/`, `sources.md`, `faq.md`,
+`history/the-mill.md`, `history/twentieth-century.md`) were removed for being
+unfinished placeholders rather than filled in — recreate them if the project
+needs them again.
+
 ## Working with sources and images
 
-- **Every factual claim should cite a source.** Pages use Markdown
-  footnotes (`[^label]` ... `[^label]: full citation`) that link back
-  to the master list in `sources.md`. See `history/origins.md` for an
-  example.
-- **`sources.md` is organized by record type** (parish registers,
-  census, oral histories, etc.) with anchored headings, so you can
-  link straight to a section, e.g. `sources.md#oral-histories`.
+- **Every factual claim should cite a source.** There's no `sources.md` in
+  this project — pages sourced from the open web (`history/origins.md`,
+  `places.md`, `history/monkton-1926.md`) cite with plain inline Markdown
+  links to the original page, directly in the prose or in a trailing
+  "Source(s):" line. Prefer the most authoritative source you can find (e.g.
+  a building's own Historic England listing page over a Wikipedia mirror of
+  it), and where two good sources disagree, say so on the page (see the
+  `{admonition}` "Conflicting evidence" pattern in `history/origins.md`)
+  rather than silently picking one.
 - **Images** live in `source/_static/images/`. Keep web-sized copies
   (under ~1MB) in the repo and store full-resolution originals
   elsewhere — note where in `sources.md`. Reference them with the

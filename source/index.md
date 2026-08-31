@@ -39,6 +39,12 @@ St Mary Magdalene: architecture, clergy, bells, and memorials.
 Monkton Memories and A Farming Life — Terry Marsh's columns from the Monkton News.
 :::
 
+:::{grid-item-card} 🏘️ Places
+:link: places
+:link-type: doc
+Monkton's listed buildings, from Historic England's register.
+:::
+
 :::{grid-item-card} 🖼️ Gallery
 :link: gallery
 :link-type: doc
@@ -57,6 +63,7 @@ Table of Contents
 about
 church/index
 history/index
+places
 gallery
 ```
 

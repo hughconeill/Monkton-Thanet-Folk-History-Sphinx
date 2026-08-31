@@ -50,16 +50,25 @@ without Sphinx warnings/errors and renders as expected.
   `*Terry Marsh*` byline and an "Originally published in the Monkton News
   (Month Year)." line. New issues of the magazine will surface more instalments
   of both columns later — renumbering/re-titling them then is expected.
-- **Scaffold/placeholder content, not yet linked into the site**: `source/history/origins.md`,
-  `source/history/the-mill.md`, `source/history/twentieth-century.md`,
-  `source/people/`, `source/places.md`, `source/faq.md`, `source/timeline.md`,
-  `source/sources.md`. These still contain bracketed placeholders (e.g. `[Manor Name]`,
-  `[Record Office reference]`) and template guidance text left over from the initial
-  scaffold. Don't treat their presence as evidence a topic is "done" — check whether
-  they're wired into a `toctree` and whether the bracketed placeholders have been
-  replaced with real content/citations. They are deliberately left out of
-  `source/history/index.md`'s `toctree` for now, since they're unrelated to the
-  Terry Marsh columns and not ready to publish.
+- `source/history/index.md` also has a "Featured" table (not a `{grid}`, so it
+  reads as one-off rather than a permanent column like Terry Marsh's) linking
+  `source/history/monkton-1926.md` (Stuart Horsburgh's 1926 centenary-walk
+  article and 4-zone map, plus a downloadable PDF built from the same images —
+  see `source/_static/monkton-1926-centenary-mile-walk-map.pdf`) and
+  `source/history/origins.md` (Anglo-Saxon/medieval Monkton, sourced from
+  British History Online's Hasted transcription and the Kent Archaeological
+  Society journal). `source/places.md` (linked from the root `index.md`) lists
+  Monkton's 22 Historic England-listed buildings. Unlike the rest of the site,
+  these pages cite external web sources with inline Markdown links directly in
+  the prose, rather than the footnote-to-`sources.md` convention below — there
+  is no `sources.md` in this project (an earlier placeholder version was
+  removed; it hasn't been recreated).
+- The original scaffold also included `source/history/the-mill.md`,
+  `source/history/twentieth-century.md`, `source/people/`, `source/faq.md`,
+  `source/timeline.md`, and an earlier placeholder `source/sources.md` —
+  these were removed for being unfinished (bracketed placeholders, never
+  wired into a `toctree`). They no longer exist; don't assume they're just
+  unlinked.
 - Images referenced from `history/`/`people/`/church pages sometimes point at
   `_static/images/placeholder-*.jpg` (literal grey placeholders) — replace with real
   scans before treating a page as finished. Some newer pages (e.g. `index.md`,
@@ -68,11 +77,16 @@ without Sphinx warnings/errors and renders as expected.
 
 ## Editorial conventions (from `README.md` / `PROJECT-BRIEF.md`)
 
-- **Citations**: every factual claim gets a Markdown footnote (`[^label]` ...
-  `[^label]: full citation`) linking back to `source/sources.md`, which is organized
-  by record type with anchored headings (e.g. `sources.md#manorial-records`). See
-  `source/history/origins.md` for the pattern, even though that page itself is
-  still placeholder content.
+- **Citations**: the project's original convention (from `PROJECT-BRIEF.md`) was a
+  Markdown footnote (`[^label]` ... `[^label]: full citation`) linking back to a
+  `source/sources.md` organized by record type — that file no longer exists (see
+  above), so this isn't in active use. Pages sourced from the open web
+  (`origins.md`, `places.md`, `monkton-1926.md`) instead cite with inline
+  Markdown links directly in the prose/a trailing "Source(s):" line, pointing at
+  the original page (British History Online, Historic England, Wikipedia, etc.)
+  — prefer the most authoritative/primary source available (e.g. link a listed
+  building to Historic England's own listing page over a Wikipedia mirror, when
+  you have the exact listing URL).
 - **Disputed facts**: where sources disagree, say so on the page (see the
   `{admonition}` "Conflicting evidence" pattern) rather than silently picking one.
 - **Placeholders**: unresearched sections should stay clearly marked as placeholders
