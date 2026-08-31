@@ -3,14 +3,6 @@
     margin-left: 0;
 }
 
-/* Give table cells a subtle background tint so they read as a table
-   more clearly, without overpowering the page. The bolder "chip" look
-   lives on the grid cards instead (see color-card-background/-border
-   in conf.py). */
-table.docutils td {
-    background-color: var(--color-table-row-alt);
-}
-
 /* Give same-shaped tables (e.g. the clergy lists) matching dimensions
    instead of each shrinking to fit its own longest row */
 table.clergy-table {
