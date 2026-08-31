@@ -45,6 +45,12 @@ Monkton Memories and A Farming Life — Terry Marsh's columns from the Monkton N
 Monkton's listed buildings, from Historic England's register.
 :::
 
+:::{grid-item-card} 📰 In the News
+:link: news
+:link-type: doc
+Recent local and regional press coverage of Monkton.
+:::
+
 :::{grid-item-card} 🖼️ Gallery
 :link: gallery
 :link-type: doc
@@ -64,6 +70,7 @@ about
 church/index
 history/index
 places
+news
 gallery
 ```
 
