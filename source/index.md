@@ -3,13 +3,16 @@
 Welcome to the community history archive for Monkton. 
 This is an ongoing project to gather information and personal histories in the village led by Stuart Horsburgh.
 
-```{admonition} Version 2
+```{admonition} Version 2 
 :class: tip
 
-This is the second edition of the Monkton History website. In this version we have added a new **History** section with the following features:
-
-- Terry Marsh's excellent personal history of village in the original 2 series - **Monkton Memories** and **A Farming Life**
-- The **Centenary Trail** - see how Monkton has changed in the last 100 years by following Stuart's map showing what the village looked like in 1926.
+This is a test version 2 of the new Monkton-in-Thanet history website, adding some new bits:
+- Stuart's 1926 Centenary trail
+- Some of Monkton's history taken from sources on the web
+- Other stories about Monkton on the web (in the news)
+- Other Monktons around the world
+- A list of listed buildings
+- Some War Graves Commmission references to the war graves in the churchyard 
 
 ```
 
