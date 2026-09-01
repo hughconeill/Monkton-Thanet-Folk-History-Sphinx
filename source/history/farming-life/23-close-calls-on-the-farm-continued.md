@@ -12,6 +12,22 @@ The crossing at Sheriffs Court Farm is situated on a bend, from the farm, the no
 
 Being a diesel/electric engine, the driver had switched over to diesel when the power went off and carried on, as he could see no reason to stop. The line was shut for about 12 hours. The weight on the front of the tractor sheared off and went under the train and was pushed through a dozen sleepers. The tractor had to be craned off the track as it was across the electric rail which is not fixed.
 
+```{figure} https://res.cloudinary.com/monkton/image/upload/v1786112649/Tractor_crash_1_wijdx6.png
+:alt: Train crash 1
+:width: 80%
+:align: center
+
+The Train and Tractor
+```
+
+```{figure} https://res.cloudinary.com/monkton/image/upload/v1786112647/Tractor_crash_2_i83ieo.png
+:alt: Train crash 2
+:width: 80%
+:align: center
+
+Recovering the Tractor
+```
+
 After being interviewed by the transport police, I was told that incidents like this often took several years to get sorted out. I received a letter, two months after the incident, that no further action would be taken.
 
 More next month.

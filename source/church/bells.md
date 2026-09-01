@@ -10,7 +10,7 @@ In 1910, the then Vicar, Revd. Watkin S Williams, wrote to John Taylor & Co, Bel
 
 In 2012, the Derbyshire church of St Giles, Sandiacre, was having its peal remodelled, and a discarded bell was found to be almost exactly the right note for Monkton’s missing \#4 tenor bell. A local retired vicar, bell enthusiast, and friend of Monkton Church, Revd David Cawley, put down a deposit to secure the bell which was at Taylors, and a generous Monkton benefactor stepped in to pay the balance of its metal value (rather more than in 1911 !) Various grants and practical assistance from the Kent County Association of Change Ringers enabled the bell to be tuned and re-fitted and it arrived in Monkton Church on 18th January 2014, prior to being hung – its newly engraved inscription, “Once More We’re Four” telling the story.
 
-Serious bell ringing, presently for a Friday night practice, 7pm – 8pm, and occasional Sunday services with Monkton village beginners began in earnest.
+Serious bell ringing, presently for a Friday night practice, 5pm – 6pm, and occasional Sunday services with Monkton village beginners began in earnest.
 
 By 2018, the Revd. Cawley had found two more light bells that were installed to make a more traditional peal of 6 bells, and bell ringers from far and wide visit Monkton on their tours and outings to ring quarter peals and the occasional peal.
 

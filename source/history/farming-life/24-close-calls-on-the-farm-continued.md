@@ -6,6 +6,14 @@ One of the smallest fields that we had on Sheriffs Court Farm was a 2 hectare fi
 
 In 2004 the crop in this field was not very good and I managed to get the entire crop of wheat in the 'bin' of the combine, the Class 108, and we decided that it would be easier for me to drive out of the field before emptying the combine, Unfortunately the old brick bridge was not up to taking the weight of the combine plus nearly 7 tonnes of wheat in the bin, so part of the left side of the bridge collapsed.
 
+```{figure} https://res.cloudinary.com/monkton/image/upload/v1786112648/Combine_crash_ap3648.png
+:alt: Combine harvestor on the collapsed bridge
+:width: 80%
+:align: center
+
+The combine harvestor on the collapsed bridge
+```
+
 We had to get a recovery vehicle, capable of lifting 20 tonnes, to extract the combine. The extraction caused more damage to the combine than the fall through the bridge. We replaced the combine before the 2005 season. The bridge, which is over the railway crossing near the Scout Camp along Watchester Lane in Minster, has never been repaired.
 
 In about 2008/9 I was on the marshes planting wheat. I stopped to talk to Alan, who for years shot pigeons and ducks on the farm. Whilst talking we were watching Edward Spanton drive his 200hp Ford tractor, with a cultivator attached to it, out of the top of his field, which was next to one of ours, and drive along the edge of our field to get to another of his fields. When, about half way along he just appeared to drive into the Minster Stream.

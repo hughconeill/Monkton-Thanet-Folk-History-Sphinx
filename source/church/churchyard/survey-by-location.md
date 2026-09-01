@@ -6,8 +6,8 @@ headings in capitals are location directions —
 follow them in order to locate each numbered plot on the ground.
 
 See [Names in alphabetical order](names-alphabetical.md) to look up a
-specific person, or [Named memorial stones in numerical order]
-(numbered-stones.md) for a condensed index.
+specific person, or [Named memorial stones in numerical order](numbered-stones.md) 
+for a condensed index.
 
 {.location-subheading}
 ## MONKTON CHURCHYARD LOCATION DETAILS -- OCTOBER 2025
