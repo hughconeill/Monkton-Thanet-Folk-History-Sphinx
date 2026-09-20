@@ -90,4 +90,11 @@ Monkton was created a vicarage with chapels at Birchington & Wade.
 | 2014 | RICHARD BRADDY *(1<sup>st</sup> vicar of the Wantsum Group -- Minster, Monkton, St Nicholas-at-Wade & Chislet)* |
 | 2023 | JEF FOULGER *(priest-in-charge)* | 
 
+```{admonition} Peter Gausden
+:class: important
+
+Whilst not our vicar and so appearing on this list, 
+Peter has been leading the services at St Mary Magdalene for many years.
+[Ask Stuart to write something]
+```
 

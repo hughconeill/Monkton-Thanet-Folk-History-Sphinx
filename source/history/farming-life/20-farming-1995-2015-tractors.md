@@ -1,0 +1,15 @@
+# 20. Farming 1995 - 2015 (Tractors)
+
+At the beginning of this period on Sheriffs Court Farm there were only two tractors on the farm. There was no need to have more. In the spring, one had the sprayer mounted on the back of it. The other, the fertilizer spreader. During harvesting time, two tractors and trailers holding 10 and 15 tonnes managed to keep up with the combine harvester. In the autumn the bigger of the two was more than capable of doing all the cultivations and planting.
+
+As with the combine harvester, electrically operated switches and buttons replaced a lot of the manually operated levers. Both had computer screens built into them. The screens would display all that was going on while the tractor was working - forward speed, engine speed, PTO speed, coolant temperature and so on. If anything was not performing properly the screen would let you know how serious it was. It would display a code number. A quick call to the engineering firm that supplied the tractor to quote them the code and they would tell you what the code stood for and then send out an engineer to fix the problem. As with all modern cars the engineer would have a diagnostic computer, which he plugged into the tractor to find out more about a problem and how to fix it.
+
+When operating in the field you could now program your tractor to do several things at once. With one touch of a rocker switch at the end of a field when ploughing, the tractor would lift the plough out of the ground, cut the engine speed and turn over the plough. When you had turned around another touch would lower the plough and up the engine speed. Similar when planting wheat with the combination drill. At the end of the field one touch would lift the drill, turn off the PTO and cut the engine speed. Turn round, a touch of the switch would lower the drill switch on the PTO and up the engine speed.
+
+Ground Positioning Systems [GPS] started being used at the beginning of this period. On the bigger farms just one tractor, often the one that was used to do the planting, had it installed as an added extra. A yellow dome on the roof of the cab was a 'give away' sign that one was installed and they were often stolen. We  never had a GPS installed on the tractors on Sheriffs Court being 'old school' we didn't mind steering our machines across a field.
+
+Today all the field work, spraying and fertilizer spreading around Monkton is governed by GPS. Fields are mapped out and installed on the GPS system on combines, tractors and self-propelled sprayers. Combines can cut entire fields with the driver only touching the steering wheel to turn around at the end of a row. With a 10 metre wide header, the overlap on each row can be as little as 10 centimetres. All crops are planted using GPS. Wheat is planted in rows approximately 12 centimetres apart, with 4 to 6 metre wide machines the whole field is planted in perfectly straight rows all of the same width. Sprayer and fertilizer spreader operators now look at a screen to see where to travel, each run exactly 24 or 36 metres apart.
+
+*Terry Marsh*
+
+Originally published in the Monkton News (April 2026).

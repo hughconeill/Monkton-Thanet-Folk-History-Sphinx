@@ -3,13 +3,17 @@
 Welcome to the community history archive for Monkton. 
 This is an ongoing project to gather information and personal histories in the village led by Stuart Horsburgh.
 
-```{admonition} Version 1
+```{admonition} Version 2 
 :class: tip
 
-This launch version of the website contains the history of the church and index of the graves and memorials 
-in the building and churchyard.
-The information has been available for some time in book form - available in a box in the churchyard
-but is now available online in a searchable format.
+This is a test version 2 of the new Monkton-in-Thanet history website, adding some new bits:
+- Stuart's 1926 Centenary trail
+- Some of Monkton's history taken from sources on the web
+- Other stories about Monkton on the web (in the news)
+- Other Monktons around the world
+- A list of listed buildings
+- Some War Graves Commmission references to the war graves in the churchyard 
+
 ```
 
 ```{figure} https://res.cloudinary.com/monkton/image/upload/v1786114532/Monkton_church_kn8msz.png
@@ -32,6 +36,30 @@ An old postcard of Monkton Church and the stocks
 St Mary Magdalene: architecture, clergy, bells, and memorials.
 :::
 
+:::{grid-item-card} 📜 History
+:link: history/index
+:link-type: doc
+Monkton Memories and A Farming Life — Terry Marsh's columns from the Monkton News.
+:::
+
+:::{grid-item-card} 🏘️ Places
+:link: places
+:link-type: doc
+Monkton's listed buildings, from Historic England's register.
+:::
+
+:::{grid-item-card} 📰 In the News
+:link: news
+:link-type: doc
+Recent local and regional press coverage of Monkton.
+:::
+
+:::{grid-item-card} 🌍 Other Monktons
+:link: other-monktons
+:link-type: doc
+Every other Monkton we've found, in the UK and beyond.
+:::
+
 :::{grid-item-card} 🖼️ Gallery
 :link: gallery
 :link-type: doc
@@ -40,12 +68,19 @@ Historical photographs and images.
 
 ::::
 
+{.toc-heading}
+Table of Contents
+
 ```{toctree}
 :maxdepth: 2
 :caption: Contents
 
 about
 church/index
+history/index
+places
+news
+other-monktons
 gallery
 ```
 

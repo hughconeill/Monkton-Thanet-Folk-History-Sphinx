@@ -1,0 +1,15 @@
+# 22. Close Calls on the Farm
+
+Agriculture/Horticulture along with the construction business are the two most accident-prone professions in the country. I deem myself extremely lucky that in about 50 years of being involved in farming, I never had anything more than cuts and bruises through my work. I have witnessed and been involved in a few incidents that could have gone the wrong way.
+
+When, I was seventeen years old, my father was working for Mr Terry Whiteman, who owned a farm at St Nicholas and had land next to the River Wantsum next to the Thanet Way. I worked there at weekends and during school holidays. While working with the other man on the farm, Alan, picking up the day's potato harvest, Mr Whiteman came to us and  wanted us and the tractor we were using. We had to help pull the tractor that my father was using to shim cauliflowers, out of the River Wantsum. My father was OK and he had gone home to get a change of clothes as he had ended up in the river as well. The tractor, a  little old Massey Fergerson, was completely upside-down in the river. It turned out that the tractor had stuck in reverse gear and went backwards instead of forwards, apparently not the first time this had happened.
+
+In 1977, in my second year of working for Fred Fuller at Sheriffs Court Farm, I was the only one on the farm who wanted to drive the new John Deere 3130. Tractors have, what they call differential  brakes, this allows you to brake either the left or right back wheel to turn more sharply when working in the field. The left one on the John Deere had failed, and still under warranty, went back to the engineers, Drake and Fletcher, to be fixed. A few weeks after the repair, in a time when I could drive a tractor and three meter wide power Harrow through Minster, I was driving down Minster High Street when the tractor started to free wheel. I stopped thinking that the clutch had failed, got out and could see no visual sign of a problem. This tractor had a four-wheel drive system that was driven by an oil pump. I switched it on and decided to use it to creep back to the farm via the marshes, and not the road. When about a hundred meters over the railway crossing and on Marsh Farm Road, the entire left hand back wheel and drive shaft spun out of the tractor. The power harrow stopped the tractor from going right over on its side and no-one was hurt. The large stud that held the drive shaft in position had sheared in half.
+
+On the end of one of the smaller barns on the farm was the remains of a 35 to 40 foot tall wooden grain elevator for a long obsolete grain drying system. We used to meet and have breaks in the lean-to barn next to the elevator. One extremely windy day, in the early 1980's, the late Bob Hood and I walked out of the door to the lean-to and just rounded the corner of the building when there was a very loud bang from behind us. Looking back around the corner the old elevator had collapsed across the door that we had just walked out of.
+
+More next month.
+
+*Terry Marsh*
+
+Originally published in the Monkton News (June 2026).

@@ -5,7 +5,7 @@ A small sample collection of historical photographs to test the page.
 Click on the image to open the photograph full-screen, click the **back** button to return to this page.
 
 ```{admonition} Work in progress!
-:class: tip
+:class: note
 
 This section will be expanded and divided into sections in the future when the available pictures have been scanned.
 ```

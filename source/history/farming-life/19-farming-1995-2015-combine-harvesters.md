@@ -1,0 +1,13 @@
+# 19. Farming 1995 - 2015 (Combine Harvesters)
+
+With the ever-increasing size and capacities of combine harvesters, most of the smaller farms in Thanet turned to having their cereals harvested either by the big farms such as Quex Park, or by dedicated contractors. Combines in 2005 could harvest 30 hectares a day (75 acres) with 10 meter wide headers and grain tanks that could hold 10 tonnes. Most of these combines now ran on tracks and not wheels to spread the weight of them evenly over the ground.
+
+On Sheriffs Court Farm in about 2005 we replaced our Class 108. Due to a little mishap it went a little earlier than planned, and was replaced with a 5 year old Class Lexion 470. This combine was capable of cutting 20 hectares a day (50 acres). Its cutting width was 7 metres, bin capacity was 7 tonnes, with huge front tyres its body width was 4 metres. Everything on this combine was operated electrically, anything that turned had a sensor on to let you know if it was not turning at the right speed. There was a computer in front of you from which you could alter everything, cutting height, thrashing speed, sieve width and so on. When you went from cutting oil seed rape to cutting wheat, you found the crop on the computer, touched the screen and the whole combine adjusted to suit the crop. There was a system that could tilt the sieves so that when cutting on a slope it helped keep the grain evenly spread over the sieves. It had  an electric eye sensor on the grain elevator which was supposed to tell you what tonnage you were cutting for the day, but we soon found it to be wildly inaccurate. One of the big farms, with a new combine, relied on this system when cutting the crops of other farms, telling them that they had X amount of wheat. When loaded out to the mills or boat for export the weights were a long way out!
+
+The 470 was 'on paper' too big for our size of farm and we took on cutting Johnathon Tapps crops on his farm at St Nicholas, and extra 80 hectares (200 acres), well within our capabilities. After doing this for several years we also took on cutting Edward Spantons crops on his farm in Minster. This only lasted a couple of seasons as there was a falling out as to whose fields we should cut first. Tapps went first. Spanton soon followed as his demands for when we should cut his crops became too excessive.
+
+By 2015 the 470 was really starting to show its age. With a quarter of the farm dedicated to growing maize, quite a few hectares out of use due to the new line of pylons being erected on the marsh, David decided to sell the combine and not replace it in 2016. For the next 3 seasons Charlie Quested from West Marsh cut all of our crops.
+
+*Terry Marsh*
+
+Originally published in the Monkton News (March 2026).
