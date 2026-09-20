@@ -110,8 +110,9 @@ without Sphinx warnings/errors and renders as expected.
 
 ## Deployment
 
-`.github/workflows/deploy.yml.example` is a template GitHub Pages workflow (build with
-`sphinx-build -b html source build/html`, then `actions/deploy-pages`). It is **not**
-active yet — rename/copy it to `.github/workflows/deploy.yml` to enable auto-deploy on
-push to `main`. README.md and PROJECT-BRIEF.md both describe it as already active, which
-is currently inaccurate.
+`.github/workflows/deploy.yml` is active: every push to `main` (or a manual run from the
+Actions tab) builds the site with `sphinx-build -b html source build/html` and publishes
+it to GitHub Pages via `actions/deploy-pages`. Work on other branches does **not** go
+live until it is merged to `main` — Version 2 was developed on `Version_2_Terry` and
+went live when PR #1 was merged. The repository is named `Monkton-Kent` on GitHub, so
+the site lives at `https://hughconeill.github.io/Monkton-Kent/`.
